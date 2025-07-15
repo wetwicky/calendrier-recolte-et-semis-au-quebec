@@ -582,4 +582,132 @@ DESCRIPTION:Fin de la période de récolte des asperges au Québec
 CATEGORIES:LEGUMES,RECOLTE
 END:VEVENT
 
+BEGIN:VEVENT
+UID:oranges-exclusion-20250101@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250101
+SUMMARY:🍊 Oranges - Non cultivable ❄️
+DESCRIPTION:Les agrumes comme les oranges ne peuvent pas être cultivés au Québec car ils sont trop sensibles au gel et nécessitent un climat subtropical avec des températures constamment chaudes.
+CATEGORIES:FRUITS,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:citrons-exclusion-20250101@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250101
+SUMMARY:🍋 Citrons - Non cultivable ❄️
+DESCRIPTION:Les citrons ne peuvent pas être cultivés au Québec car ils nécessitent un climat subtropical et sont extrêmement sensibles au gel, même léger.
+CATEGORIES:FRUITS,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pamplemousses-exclusion-20250101@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250101
+SUMMARY:🍊 Pamplemousses - Non cultivable ❄️
+DESCRIPTION:Les pamplemousses ne peuvent pas être cultivés au Québec car ils nécessitent un climat subtropical chaud et sont très sensibles aux températures froides.
+CATEGORIES:FRUITS,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:avocats-exclusion-20250101@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250101
+SUMMARY:🥑 Avocats - Non cultivable 🌡️
+DESCRIPTION:Les avocats ne peuvent pas être cultivés au Québec car ils nécessitent une température minimale trop élevée pour notre climat et sont très sensibles au gel.
+CATEGORIES:FRUITS,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:figues-exclusion-20250101@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250101
+SUMMARY:🟤 Figues - Non cultivable ⏰
+DESCRIPTION:Les figues ne sont pas adaptées au Québec car notre saison de croissance est trop courte et les figuiers gèlent facilement lors des hivers rigoureux.
+CATEGORIES:FRUITS,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:kiwis-exclusion-20250101@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250101
+SUMMARY:🥝 Kiwis - Non cultivable ⏰
+DESCRIPTION:Les kiwis ne sont pas adaptés au Québec car leur période de maturation est trop longue pour nos étés courts et ils nécessitent une saison de croissance plus étendue.
+CATEGORIES:FRUITS,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:raisins-cuve-exclusion-20250101@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250101
+SUMMARY:🍇 Raisins de cuve - Très limité 🌡️
+DESCRIPTION:Les raisins de cuve sont très limités au Québec. Certaines variétés résistantes au froid peuvent être cultivées mais avec un succès variable selon les zones climatiques.
+CATEGORIES:FRUITS,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:artichauts-exclusion-20250101@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250101
+SUMMARY:🟢 Artichauts - Non cultivable ⏰
+DESCRIPTION:Les artichauts ne peuvent pas être cultivés au Québec car notre saison de croissance est trop courte pour cette plante vivace sensible au gel qui nécessite une longue période de développement.
+CATEGORIES:LEGUMES,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:okra-exclusion-20250101@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250101
+SUMMARY:🌶️ Okra - Non cultivable 🌡️
+DESCRIPTION:L'okra ne peut pas être cultivé au Québec car il nécessite beaucoup plus de chaleur que ce qui est disponible dans notre climat, même pendant les étés les plus chauds.
+CATEGORIES:LEGUMES,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:patates-douces-exclusion-20250101@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250101
+SUMMARY:🍠 Patates douces - Très limité ⏰
+DESCRIPTION:Les patates douces sont possibles au Québec mais avec un rendement très faible et une réussite aléatoire car notre saison de croissance est trop courte pour un développement optimal.
+CATEGORIES:LEGUMES,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:melons-exclusion-20250101@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250101
+SUMMARY:🍈 Melons - Très limité 🌡️
+DESCRIPTION:Les melons nécessitent beaucoup de chaleur constante pour mûrir correctement. Au Québec, leur culture a une réussite très aléatoire en raison des températures insuffisantes.
+CATEGORIES:LEGUMES,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pasteques-exclusion-20250101@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250101
+SUMMARY:🍉 Pastèques - Non cultivable ⏰
+DESCRIPTION:Les pastèques ne peuvent pas être cultivées au Québec car notre saison de croissance est trop courte pour la plupart des variétés qui nécessitent 4-5 mois de chaleur intense.
+CATEGORIES:LEGUMES,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fenouil-exclusion-20250101@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250101
+SUMMARY:🌿 Fenouil bulbeux - Technique complexe 🔧
+DESCRIPTION:Le fenouil bulbeux est possible au Québec mais sa technique de culture est plus complexe et nécessite des conditions spécifiques de température et d'arrosage difficiles à maintenir.
+CATEGORIES:LEGUMES,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:celeri-rave-exclusion-20250101@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250101
+SUMMARY:🌿 Céleri-rave - Saison longue ⏰
+DESCRIPTION:Le céleri-rave est possible au Québec mais demande une saison de croissance très longue (120+ jours) et des conditions de culture précises qui peuvent être difficiles à maintenir.
+CATEGORIES:LEGUMES,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:endives-exclusion-20250101@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250101
+SUMMARY:🥬 Endives - Culture complexe 🔧
+DESCRIPTION:Les endives nécessitent une culture en deux temps : d'abord la production des racines, puis le forçage en cave pour obtenir les chicons blancs. Cette technique est complexe pour les jardiniers amateurs.
+CATEGORIES:LEGUMES,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:salsifis-exclusion-20250101@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250101
+SUMMARY:🌿 Salsifis - Peu populaire ⏰
+DESCRIPTION:Le salsifis a un cycle de croissance très long (150+ jours) et est peu populaire auprès des jardiniers québécois en raison de sa culture exigeante et de son goût particulier.
+CATEGORIES:LEGUMES,EXCLUSION
+END:VEVENT
+
 END:VCALENDAR
