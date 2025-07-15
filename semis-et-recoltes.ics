@@ -11,7 +11,7 @@ UID:fraises-semis-20250317@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250317
 RRULE:FREQ=YEARLY
 SUMMARY:🌱 Semis Fraises (plants)
-DESCRIPTION:Période optimale pour le semis/plantation de fraises au Québec
+DESCRIPTION:Période optimale pour le semis/plantation de fraises au Québec.\n\n💡 Conseils pratiques: Privilégier les plants certifiés. Planter en sol bien drainé. Pailler pour protéger du gel.
 CATEGORIES:FRUITS,SEMIS
 END:VEVENT
 
@@ -20,7 +20,7 @@ UID:framboises-semis-20240701@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20240701
 RRULE:FREQ=YEARLY
 SUMMARY:🌱 Semis Framboises (plants)
-DESCRIPTION:Période optimale pour le semis/plantation de framboises au Québec
+DESCRIPTION:Période optimale pour le semis/plantation de framboises au Québec.\n\n💡 Conseils pratiques: Choisir variétés adaptées au froid québécois. Planter au printemps ou automne.
 CATEGORIES:FRUITS,SEMIS
 END:VEVENT
 
@@ -29,7 +29,7 @@ UID:rhubarbe-semis-20241203@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20241203
 RRULE:FREQ=YEARLY
 SUMMARY:🌱 Semis Rhubarbe (plants)
-DESCRIPTION:Période optimale pour le semis/plantation de rhubarbe au Québec
+DESCRIPTION:Période optimale pour le semis/plantation de rhubarbe au Québec.\n\n💡 Conseils pratiques: Diviser les plants existants au printemps. Sol riche et bien drainé requis.
 CATEGORIES:FRUITS,SEMIS
 END:VEVENT
 
@@ -38,7 +38,7 @@ UID:laitue-semis-20250417@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250417
 RRULE:FREQ=YEARLY
 SUMMARY:🌱 Semis Laitue (graines)
-DESCRIPTION:Période optimale pour le semis/plantation de laitue au Québec
+DESCRIPTION:Période optimale pour le semis/plantation de laitue au Québec.\n\n💡 Conseils pratiques: Semis successifs aux 2 semaines. Préfère temps frais. Arroser régulièrement.
 CATEGORIES:LEGUMES,SEMIS
 END:VEVENT
 
@@ -47,7 +47,7 @@ UID:radis-semis-20250415@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250415
 RRULE:FREQ=YEARLY
 SUMMARY:🌱 Semis Radis (graines)
-DESCRIPTION:Période optimale pour le semis/plantation de radis au Québec
+DESCRIPTION:Période optimale pour le semis/plantation de radis au Québec.\n\n💡 Conseils pratiques: Croissance rapide (30 jours). Semer direct. Éviter période chaude d'été.
 CATEGORIES:LEGUMES,SEMIS
 END:VEVENT
 
@@ -56,7 +56,7 @@ UID:carottes-semis-20250412@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250412
 RRULE:FREQ=YEARLY
 SUMMARY:🌱 Semis Carottes (graines)
-DESCRIPTION:Période optimale pour le semis/plantation de carottes au Québec
+DESCRIPTION:Période optimale pour le semis/plantation de carottes au Québec.\n\n💡 Conseils pratiques: Sol meuble et profond. Éclaircir les plants. Éviter fumier frais.
 CATEGORIES:LEGUMES,SEMIS
 END:VEVENT
 
@@ -65,7 +65,7 @@ UID:betteraves-semis-20250516@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250516
 RRULE:FREQ=YEARLY
 SUMMARY:🌱 Semis Betteraves (graines)
-DESCRIPTION:Période optimale pour le semis/plantation de betteraves au Québec
+DESCRIPTION:Période optimale pour le semis/plantation de betteraves au Québec.\n\n💡 Conseils pratiques: Tremper graines 24h avant semis. Éclaircir pour plants de 10cm d'espacement.
 CATEGORIES:LEGUMES,SEMIS
 END:VEVENT
 
@@ -74,7 +74,7 @@ UID:feves-semis-20250501@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250501
 RRULE:FREQ=YEARLY
 SUMMARY:🌱 Semis Feves (graines)
-DESCRIPTION:Période optimale pour le semis/plantation de feves au Québec
+DESCRIPTION:Période optimale pour le semis/plantation de feves au Québec.\n\n💡 Conseils pratiques: Très résistant au froid. Fixer l'azote dans le sol. Pincer sommets si pucerons.
 CATEGORIES:LEGUMES,SEMIS
 END:VEVENT
 
@@ -83,7 +83,7 @@ UID:courgettes-semis-20250416@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250416
 RRULE:FREQ=YEARLY
 SUMMARY:🌱 Semis Courgettes (graines)
-DESCRIPTION:Période optimale pour le semis/plantation de courgettes au Québec
+DESCRIPTION:Période optimale pour le semis/plantation de courgettes au Québec.\n\n💡 Conseils pratiques: Semer en intérieur, transplanter en sol chaud. Beaucoup d'espace requis (1m²).
 CATEGORIES:LEGUMES,SEMIS
 END:VEVENT
 
@@ -92,7 +92,7 @@ UID:tomates-semis-20250317@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250317
 RRULE:FREQ=YEARLY
 SUMMARY:🌱 Semis Tomates (graines)
-DESCRIPTION:Période optimale pour le semis/plantation de tomates au Québec
+DESCRIPTION:Période optimale pour le semis/plantation de tomates au Québec.\n\n💡 Conseils pratiques: Semer en intérieur sous éclairage. Transplanter après derniers gels. Tuteurer obligatoire.
 CATEGORIES:LEGUMES,SEMIS
 END:VEVENT
 
@@ -101,7 +101,7 @@ UID:brocoli-semis-20250412@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250412
 RRULE:FREQ=YEARLY
 SUMMARY:🌱 Semis Brocoli (graines)
-DESCRIPTION:Période optimale pour le semis/plantation de brocoli au Québec
+DESCRIPTION:Période optimale pour le semis/plantation de brocoli au Québec.\n\n💡 Conseils pratiques: Préfère temps frais. Transplanter jeunes plants. Récolter avant floraison.
 CATEGORIES:LEGUMES,SEMIS
 END:VEVENT
 
@@ -110,7 +110,7 @@ UID:choux-semis-20250412@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250412
 RRULE:FREQ=YEARLY
 SUMMARY:🌱 Semis Choux (graines)
-DESCRIPTION:Période optimale pour le semis/plantation de choux au Québec
+DESCRIPTION:Période optimale pour le semis/plantation de choux au Québec.\n\n💡 Conseils pratiques: Résistant au froid. Protéger des altises avec filet. Butter les plants.
 CATEGORIES:LEGUMES,SEMIS
 END:VEVENT
 
@@ -119,7 +119,7 @@ UID:poireaux-semis-20250403@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250403
 RRULE:FREQ=YEARLY
 SUMMARY:🌱 Semis Poireaux (graines)
-DESCRIPTION:Période optimale pour le semis/plantation de poireaux au Québec
+DESCRIPTION:Période optimale pour le semis/plantation de poireaux au Québec.\n\n💡 Conseils pratiques: Semer en intérieur. Butter régulièrement pour blanchir. Résistant au gel.
 CATEGORIES:LEGUMES,SEMIS
 END:VEVENT
 
@@ -128,7 +128,7 @@ UID:ail-semis-20241117@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20241117
 RRULE:FREQ=YEARLY
 SUMMARY:🌱 Semis Ail (bulbes)
-DESCRIPTION:Période optimale pour le semis/plantation de ail au Québec
+DESCRIPTION:Période optimale pour le semis/plantation de ail au Québec.\n\n💡 Conseils pratiques: Planter à l'automne avant gel. Choisir variétés d'ail d'hiver. Pailler.
 CATEGORIES:LEGUMES,SEMIS
 END:VEVENT
 
@@ -137,7 +137,7 @@ UID:courges-semis-20250504@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250504
 RRULE:FREQ=YEARLY
 SUMMARY:🌱 Semis Courges (graines)
-DESCRIPTION:Période optimale pour le semis/plantation de courges au Québec
+DESCRIPTION:Période optimale pour le semis/plantation de courges au Québec.\n\n💡 Conseils pratiques: Beaucoup d'espace requis. Sol riche et chaud. Pollinisation manuelle si nécessaire.
 CATEGORIES:LEGUMES,SEMIS
 END:VEVENT
 
@@ -146,7 +146,7 @@ UID:citrouilles-semis-20250504@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250504
 RRULE:FREQ=YEARLY
 SUMMARY:🌱 Semis Citrouilles (graines)
-DESCRIPTION:Période optimale pour le semis/plantation de citrouilles au Québec
+DESCRIPTION:Période optimale pour le semis/plantation de citrouilles au Québec.\n\n💡 Conseils pratiques: Espace énorme requis (3m²). Pincer tiges secondaires. Protéger fruits du sol.
 CATEGORIES:LEGUMES,SEMIS
 END:VEVENT
 
@@ -155,10 +155,9 @@ UID:mais-semis-20250517@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250517
 RRULE:FREQ=YEARLY
 SUMMARY:🌱 Semis Mais (graines)
-DESCRIPTION:Période optimale pour le semis/plantation de mais au Québec
+DESCRIPTION:Période optimale pour le semis/plantation de mais au Québec.\n\n💡 Conseils pratiques: Semer en blocs pour pollinisation. Sol chaud requis. Butter les plants.
 CATEGORIES:LEGUMES,SEMIS
 END:VEVENT
-
 
 BEGIN:VEVENT
 UID:fraises-debut-20250615@semis-recoltes-quebec
@@ -1004,15 +1003,6 @@ RRULE:FREQ=YEARLY
 SUMMARY:🍅 Fin récolte Tomates cerises
 DESCRIPTION:Fin de la période de récolte des tomates cerises au Québec
 CATEGORIES:LEGUMES,RECOLTE
-END:VEVENT
-
-BEGIN:VEVENT
-UID:fraises-semis-20250315@semis-recoltes-quebec
-DTSTART;VALUE=DATE:20250315
-RRULE:FREQ=YEARLY
-SUMMARY:🌱 Semis Fraises (plants)
-DESCRIPTION:Période optimale pour planter les plants de fraises au Québec
-CATEGORIES:FRUITS,SEMIS
 END:VEVENT
 
 END:VCALENDAR
