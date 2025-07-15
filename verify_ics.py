@@ -5,18 +5,18 @@ Script pour vérifier et nettoyer le fichier ICS
 
 def clean_and_verify_ics(filename):
     """Nettoie les duplications et vérifie le fichier ICS"""
-    
+
     with open(filename, 'r', encoding='utf-8') as f:
         lines = f.readlines()
-    
+
     cleaned_lines = []
     events_count = 0
     rrule_count = 0
-    
+
     i = 0
     while i < len(lines):
         line = lines[i].strip()
-        
+
         # Éviter les duplications de RRULE
         if line == 'RRULE:FREQ=YEARLY':
             # Vérifier si la ligne précédente est déjà une RRULE
@@ -24,17 +24,17 @@ def clean_and_verify_ics(filename):
                 i += 1  # Ignorer cette duplication
                 continue
             rrule_count += 1
-        
+
         if line == 'BEGIN:VEVENT':
             events_count += 1
-            
+
         cleaned_lines.append(lines[i])
         i += 1
-    
+
     # Écrire le fichier nettoyé
     with open(filename, 'w', encoding='utf-8') as f:
         f.writelines(cleaned_lines)
-    
+
     print(f"✅ Fichier nettoyé avec succès!")
     print(f"📊 Statistiques:")
     print(f"   • {events_count} événements trouvés")
@@ -43,7 +43,7 @@ def clean_and_verify_ics(filename):
 
 if __name__ == "__main__":
     filename = "semis-et-recoltes.ics"
-    
+
     try:
         clean_and_verify_ics(filename)
     except FileNotFoundError:

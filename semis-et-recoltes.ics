@@ -28,7 +28,7 @@ BEGIN:VEVENT
 UID:framboises-debut-20250701@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250701
 RRULE:FREQ=YEARLY
-SUMMARY:🫐 Début récolte Framboises
+SUMMARY:🔴 Début récolte Framboises
 DESCRIPTION:Début de la période de récolte des framboises au Québec
 CATEGORIES:FRUITS,RECOLTE
 END:VEVENT
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 UID:framboises-fin-20250815@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250815
 RRULE:FREQ=YEARLY
-SUMMARY:🫐 Fin récolte Framboises
+SUMMARY:🔴 Fin récolte Framboises
 DESCRIPTION:Fin de la période de récolte des framboises au Québec
 CATEGORIES:FRUITS,RECOLTE
 END:VEVENT
@@ -796,6 +796,24 @@ RRULE:FREQ=YEARLY
 SUMMARY:🌿 Salsifis - Peu populaire ⏰
 DESCRIPTION:Le salsifis a un cycle de croissance très long (150+ jours) et est peu populaire auprès des jardiniers québécois en raison de sa culture exigeante et de son goût particulier.
 CATEGORIES:LEGUMES,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cerises-debut-20250615@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250615
+RRULE:FREQ=YEARLY
+SUMMARY:🍒 Début récolte Cerises
+DESCRIPTION:Début de la période de récolte des cerises au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cerises-fin-20250815@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250815
+RRULE:FREQ=YEARLY
+SUMMARY:🍒 Fin récolte Cerises
+DESCRIPTION:Fin de la période de récolte des cerises au Québec
+CATEGORIES:FRUITS,RECOLTE
 END:VEVENT
 
 END:VCALENDAR

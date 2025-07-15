@@ -6,7 +6,7 @@ Un calendrier au format ICS contenant les périodes de récolte des fruits et l�
 
 Ce projet fournit un calendrier complet pour les jardiniers québécois avec :
 
-- **Périodes de récolte** pour 36 fruits et légumes
+- **Périodes de récolte** pour 37 fruits et légumes
 - **Événements d'exclusion** pour les variétés non adaptées au climat québécois
 - **Format ICS standard** compatible avec la plupart des applications de calendrier
 - **Emojis et descriptions détaillées** pour une meilleure lisibilité
@@ -18,12 +18,13 @@ Ce projet fournit un calendrier complet pour les jardiniers québécois avec :
 - `verify_ics.py` - Script Python pour vérifier et nettoyer le fichier ICS
 - `README.md` - Documentation du projet
 
-## 🍎 Fruits inclus (11 variétés)
+## 🍎 Fruits inclus (12 variétés)
 
 | Fruit | Période de récolte | Émoji |
 |-------|-------------------|-------|
 | Fraises | 15 juin → 31 juillet | 🍓 |
-| Framboises | 1er juillet → 15 août | 🫐 |
+| Framboises | 1er juillet → 15 août | 🔴 |
+| Cerises | 15 juin → 15 août | 🍒 |
 | Bleuets | 20 juillet → 31 août | 🫐 |
 | Mûres | 1er août → 15 septembre | 🫐 |
 | Groseilles | 10 juillet → 20 août | 🍇 |
