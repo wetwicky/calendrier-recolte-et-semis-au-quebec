@@ -13,7 +13,9 @@ Ce projet fournit un calendrier complet pour les jardiniers québécois avec :
 
 ## 📁 Contenu
 
-- `semis-et-recoltes.ics` - Fichier calendrier principal
+- `semis-et-recoltes.ics` - Fichier calendrier principal avec récurrence annuelle
+- `add_rrule.py` - Script Python pour ajouter les règles de récurrence
+- `verify_ics.py` - Script Python pour vérifier et nettoyer le fichier ICS
 - `README.md` - Documentation du projet
 
 ## 🍎 Fruits inclus (11 variétés)
@@ -121,12 +123,31 @@ Le calendrier utilise les catégories suivantes :
 - `FRUITS,EXCLUSION` - Fruits non cultivables avec explications
 - `LEGUMES,EXCLUSION` - Légumes non cultivables avec explications
 
-## 🔄 Mise à jour annuelle
+## 🔄 Récurrence annuelle
 
-Ce calendrier est configuré pour l'année 2025. Pour les années suivantes :
-1. Dupliquez les événements
-2. Modifiez les dates en gardant les mois et jours identiques
-3. Mettez à jour les UIDs pour éviter les conflits
+Ce calendrier est configuré avec des **règles de récurrence annuelle automatique** :
+- ✅ **Tous les événements se répètent chaque année** à la même date
+- ✅ **Aucune intervention manuelle requise** pour les années suivantes
+- ✅ **Compatible avec tous les clients de calendrier** supportant les règles RRULE
+- ✅ **Mise à jour automatique** pour les prochaines décennies
+
+### Format technique
+Chaque événement inclut la règle : `RRULE:FREQ=YEARLY`
+
+### Script de maintenance
+Deux scripts Python sont fournis pour la maintenance du calendrier :
+
+**Ajouter les règles de récurrence :**
+```bash
+python add_rrule.py
+```
+
+**Vérifier et nettoyer le fichier :**
+```bash
+python verify_ics.py
+```
+
+Le script de vérification affiche des statistiques utiles sur le calendrier.
 
 ## 🤝 Contribution
 

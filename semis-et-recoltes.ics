@@ -9,6 +9,7 @@ X-WR-CALDESC:Calendrier des périodes de récolte des fruits et légumes au Qué
 BEGIN:VEVENT
 UID:fraises-debut-20250615@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250615
+RRULE:FREQ=YEARLY
 SUMMARY:🍓 Début récolte Fraises
 DESCRIPTION:Début de la période de récolte des fraises au Québec
 CATEGORIES:FRUITS,RECOLTE
@@ -17,6 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fraises-fin-20250731@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250731
+RRULE:FREQ=YEARLY
 SUMMARY:🍓 Fin récolte Fraises
 DESCRIPTION:Fin de la période de récolte des fraises au Québec
 CATEGORIES:FRUITS,RECOLTE
@@ -25,6 +27,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:framboises-debut-20250701@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250701
+RRULE:FREQ=YEARLY
 SUMMARY:🫐 Début récolte Framboises
 DESCRIPTION:Début de la période de récolte des framboises au Québec
 CATEGORIES:FRUITS,RECOLTE
@@ -33,6 +36,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:framboises-fin-20250815@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250815
+RRULE:FREQ=YEARLY
 SUMMARY:🫐 Fin récolte Framboises
 DESCRIPTION:Fin de la période de récolte des framboises au Québec
 CATEGORIES:FRUITS,RECOLTE
@@ -41,6 +45,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bleuets-debut-20250720@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250720
+RRULE:FREQ=YEARLY
 SUMMARY:🫐 Début récolte Bleuets
 DESCRIPTION:Début de la période de récolte des bleuets au Québec
 CATEGORIES:FRUITS,RECOLTE
@@ -49,6 +54,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bleuets-fin-20250831@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250831
+RRULE:FREQ=YEARLY
 SUMMARY:🫐 Fin récolte Bleuets
 DESCRIPTION:Fin de la période de récolte des bleuets au Québec
 CATEGORIES:FRUITS,RECOLTE
@@ -57,6 +63,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mures-debut-20250801@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250801
+RRULE:FREQ=YEARLY
 SUMMARY:🫐 Début récolte Mûres
 DESCRIPTION:Début de la période de récolte des mûres au Québec
 CATEGORIES:FRUITS,RECOLTE
@@ -65,6 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mures-fin-20250915@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250915
+RRULE:FREQ=YEARLY
 SUMMARY:🫐 Fin récolte Mûres
 DESCRIPTION:Fin de la période de récolte des mûres au Québec
 CATEGORIES:FRUITS,RECOLTE
@@ -73,6 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:groseilles-debut-20250710@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250710
+RRULE:FREQ=YEARLY
 SUMMARY:🍇 Début récolte Groseilles
 DESCRIPTION:Début de la période de récolte des groseilles au Québec
 CATEGORIES:FRUITS,RECOLTE
@@ -81,6 +90,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:groseilles-fin-20250820@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250820
+RRULE:FREQ=YEARLY
 SUMMARY:🍇 Fin récolte Groseilles
 DESCRIPTION:Fin de la période de récolte des groseilles au Québec
 CATEGORIES:FRUITS,RECOLTE
@@ -89,6 +99,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cassis-debut-20250715@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250715
+RRULE:FREQ=YEARLY
 SUMMARY:🫐 Début récolte Cassis
 DESCRIPTION:Début de la période de récolte du cassis au Québec
 CATEGORIES:FRUITS,RECOLTE
@@ -97,6 +108,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cassis-fin-20250825@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250825
+RRULE:FREQ=YEARLY
 SUMMARY:🫐 Fin récolte Cassis
 DESCRIPTION:Fin de la période de récolte du cassis au Québec
 CATEGORIES:FRUITS,RECOLTE
@@ -105,6 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pommes-debut-20250901@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250901
+RRULE:FREQ=YEARLY
 SUMMARY:🍎 Début récolte Pommes
 DESCRIPTION:Début de la période de récolte des pommes au Québec
 CATEGORIES:FRUITS,RECOLTE
@@ -113,6 +126,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pommes-fin-20251031@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20251031
+RRULE:FREQ=YEARLY
 SUMMARY:🍎 Fin récolte Pommes
 DESCRIPTION:Fin de la période de récolte des pommes au Québec
 CATEGORIES:FRUITS,RECOLTE
@@ -121,6 +135,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:poires-debut-20250915@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250915
+RRULE:FREQ=YEARLY
 SUMMARY:🍐 Début récolte Poires
 DESCRIPTION:Début de la période de récolte des poires au Québec
 CATEGORIES:FRUITS,RECOLTE
@@ -129,6 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:poires-fin-20251015@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20251015
+RRULE:FREQ=YEARLY
 SUMMARY:🍐 Fin récolte Poires
 DESCRIPTION:Fin de la période de récolte des poires au Québec
 CATEGORIES:FRUITS,RECOLTE
@@ -137,6 +153,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:prunes-debut-20250820@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250820
+RRULE:FREQ=YEARLY
 SUMMARY:🟣 Début récolte Prunes
 DESCRIPTION:Début de la période de récolte des prunes au Québec
 CATEGORIES:FRUITS,RECOLTE
@@ -145,6 +162,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:prunes-fin-20250930@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250930
+RRULE:FREQ=YEARLY
 SUMMARY:🟣 Fin récolte Prunes
 DESCRIPTION:Fin de la période de récolte des prunes au Québec
 CATEGORIES:FRUITS,RECOLTE
@@ -153,6 +171,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rhubarbe-debut-20250601@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250601
+RRULE:FREQ=YEARLY
 SUMMARY:🌱 Début récolte Rhubarbe
 DESCRIPTION:Début de la période de récolte de la rhubarbe au Québec
 CATEGORIES:FRUITS,RECOLTE
@@ -161,6 +180,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:rhubarbe-fin-20250731@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250731
+RRULE:FREQ=YEARLY
 SUMMARY:🌱 Fin récolte Rhubarbe
 DESCRIPTION:Fin de la période de récolte de la rhubarbe au Québec
 CATEGORIES:FRUITS,RECOLTE
@@ -169,6 +189,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laitue-debut-20250601@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250601
+RRULE:FREQ=YEARLY
 SUMMARY:🥬 Début récolte Laitue
 DESCRIPTION:Début de la période de récolte de la laitue au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -177,6 +198,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:laitue-fin-20250930@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250930
+RRULE:FREQ=YEARLY
 SUMMARY:🥬 Fin récolte Laitue
 DESCRIPTION:Fin de la période de récolte de la laitue au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -185,6 +207,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:epinards-debut-20250515@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250515
+RRULE:FREQ=YEARLY
 SUMMARY:🌿 Début récolte Épinards
 DESCRIPTION:Début de la période de récolte des épinards au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -193,6 +216,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:epinards-fin-20251015@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20251015
+RRULE:FREQ=YEARLY
 SUMMARY:🌿 Fin récolte Épinards
 DESCRIPTION:Fin de la période de récolte des épinards au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -201,6 +225,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:radis-debut-20250515@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250515
+RRULE:FREQ=YEARLY
 SUMMARY:🔴 Début récolte Radis
 DESCRIPTION:Début de la période de récolte des radis au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -209,6 +234,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:radis-fin-20251001@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20251001
+RRULE:FREQ=YEARLY
 SUMMARY:🔴 Fin récolte Radis
 DESCRIPTION:Fin de la période de récolte des radis au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -217,6 +243,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:carottes-debut-20250701@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250701
+RRULE:FREQ=YEARLY
 SUMMARY:🥕 Début récolte Carottes
 DESCRIPTION:Début de la période de récolte des carottes au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -225,6 +252,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:carottes-fin-20251031@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20251031
+RRULE:FREQ=YEARLY
 SUMMARY:🥕 Fin récolte Carottes
 DESCRIPTION:Fin de la période de récolte des carottes au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -233,6 +261,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:betteraves-debut-20250715@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250715
+RRULE:FREQ=YEARLY
 SUMMARY:🟠 Début récolte Betteraves
 DESCRIPTION:Début de la période de récolte des betteraves au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -241,6 +270,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:betteraves-fin-20251031@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20251031
+RRULE:FREQ=YEARLY
 SUMMARY:🟠 Fin récolte Betteraves
 DESCRIPTION:Fin de la période de récolte des betteraves au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -249,6 +279,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:navets-debut-20250701@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250701
+RRULE:FREQ=YEARLY
 SUMMARY:⚪ Début récolte Navets
 DESCRIPTION:Début de la période de récolte des navets au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -257,6 +288,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:navets-fin-20251031@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20251031
+RRULE:FREQ=YEARLY
 SUMMARY:⚪ Fin récolte Navets
 DESCRIPTION:Fin de la période de récolte des navets au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -265,6 +297,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:petits-pois-debut-20250615@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250615
+RRULE:FREQ=YEARLY
 SUMMARY:🟢 Début récolte Petits pois
 DESCRIPTION:Début de la période de récolte des petits pois au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -273,6 +306,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:petits-pois-fin-20250731@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250731
+RRULE:FREQ=YEARLY
 SUMMARY:🟢 Fin récolte Petits pois
 DESCRIPTION:Fin de la période de récolte des petits pois au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -281,6 +315,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:haricots-verts-debut-20250715@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250715
+RRULE:FREQ=YEARLY
 SUMMARY:🫛 Début récolte Haricots verts
 DESCRIPTION:Début de la période de récolte des haricots verts au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -289,6 +324,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:haricots-verts-fin-20250915@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250915
+RRULE:FREQ=YEARLY
 SUMMARY:🫛 Fin récolte Haricots verts
 DESCRIPTION:Fin de la période de récolte des haricots verts au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -297,6 +333,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:feves-debut-20250720@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250720
+RRULE:FREQ=YEARLY
 SUMMARY:🫘 Début récolte Fèves
 DESCRIPTION:Début de la période de récolte des fèves au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -305,6 +342,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:feves-fin-20250915@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250915
+RRULE:FREQ=YEARLY
 SUMMARY:🫘 Fin récolte Fèves
 DESCRIPTION:Fin de la période de récolte des fèves au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -313,6 +351,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:courgettes-debut-20250715@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250715
+RRULE:FREQ=YEARLY
 SUMMARY:🥒 Début récolte Courgettes
 DESCRIPTION:Début de la période de récolte des courgettes au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -321,6 +360,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:courgettes-fin-20250930@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250930
+RRULE:FREQ=YEARLY
 SUMMARY:🥒 Fin récolte Courgettes
 DESCRIPTION:Fin de la période de récolte des courgettes au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -329,6 +369,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:concombres-debut-20250720@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250720
+RRULE:FREQ=YEARLY
 SUMMARY:🥒 Début récolte Concombres
 DESCRIPTION:Début de la période de récolte des concombres au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -337,6 +378,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:concombres-fin-20250930@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250930
+RRULE:FREQ=YEARLY
 SUMMARY:🥒 Fin récolte Concombres
 DESCRIPTION:Fin de la période de récolte des concombres au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -345,6 +387,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tomates-debut-20250715@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250715
+RRULE:FREQ=YEARLY
 SUMMARY:🍅 Début récolte Tomates
 DESCRIPTION:Début de la période de récolte des tomates au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -353,6 +396,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tomates-fin-20251001@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20251001
+RRULE:FREQ=YEARLY
 SUMMARY:🍅 Fin récolte Tomates
 DESCRIPTION:Fin de la période de récolte des tomates au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -361,6 +405,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:poivrons-debut-20250801@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250801
+RRULE:FREQ=YEARLY
 SUMMARY:🫑 Début récolte Poivrons
 DESCRIPTION:Début de la période de récolte des poivrons au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -369,6 +414,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:poivrons-fin-20250930@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250930
+RRULE:FREQ=YEARLY
 SUMMARY:🫑 Fin récolte Poivrons
 DESCRIPTION:Fin de la période de récolte des poivrons au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -377,6 +423,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aubergines-debut-20250801@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250801
+RRULE:FREQ=YEARLY
 SUMMARY:🍆 Début récolte Aubergines
 DESCRIPTION:Début de la période de récolte des aubergines au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -385,6 +432,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aubergines-fin-20250930@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250930
+RRULE:FREQ=YEARLY
 SUMMARY:🍆 Fin récolte Aubergines
 DESCRIPTION:Fin de la période de récolte des aubergines au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -393,6 +441,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:brocoli-debut-20250701@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250701
+RRULE:FREQ=YEARLY
 SUMMARY:🥦 Début récolte Brocoli
 DESCRIPTION:Début de la période de récolte du brocoli au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -401,6 +450,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:brocoli-fin-20251031@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20251031
+RRULE:FREQ=YEARLY
 SUMMARY:🥦 Fin récolte Brocoli
 DESCRIPTION:Fin de la période de récolte du brocoli au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -409,6 +459,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:chou-fleur-debut-20250715@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250715
+RRULE:FREQ=YEARLY
 SUMMARY:🥬 Début récolte Chou-fleur
 DESCRIPTION:Début de la période de récolte du chou-fleur au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -417,6 +468,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:chou-fleur-fin-20251031@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20251031
+RRULE:FREQ=YEARLY
 SUMMARY:🥬 Fin récolte Chou-fleur
 DESCRIPTION:Fin de la période de récolte du chou-fleur au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -425,6 +477,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:choux-debut-20250701@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250701
+RRULE:FREQ=YEARLY
 SUMMARY:🥬 Début récolte Choux
 DESCRIPTION:Début de la période de récolte des choux au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -433,6 +486,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:choux-fin-20251115@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20251115
+RRULE:FREQ=YEARLY
 SUMMARY:🥬 Fin récolte Choux
 DESCRIPTION:Fin de la période de récolte des choux au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -441,6 +495,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:choux-bruxelles-debut-20250901@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250901
+RRULE:FREQ=YEARLY
 SUMMARY:🥬 Début récolte Choux de Bruxelles
 DESCRIPTION:Début de la période de récolte des choux de Bruxelles au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -449,6 +504,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:choux-bruxelles-fin-20251130@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20251130
+RRULE:FREQ=YEARLY
 SUMMARY:🥬 Fin récolte Choux de Bruxelles
 DESCRIPTION:Fin de la période de récolte des choux de Bruxelles au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -457,6 +513,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:poireaux-debut-20250801@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250801
+RRULE:FREQ=YEARLY
 SUMMARY:🥬 Début récolte Poireaux
 DESCRIPTION:Début de la période de récolte des poireaux au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -465,6 +522,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:poireaux-fin-20251115@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20251115
+RRULE:FREQ=YEARLY
 SUMMARY:🥬 Fin récolte Poireaux
 DESCRIPTION:Fin de la période de récolte des poireaux au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -473,6 +531,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:oignons-debut-20250801@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250801
+RRULE:FREQ=YEARLY
 SUMMARY:🧅 Début récolte Oignons
 DESCRIPTION:Début de la période de récolte des oignons au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -481,6 +540,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:oignons-fin-20251015@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20251015
+RRULE:FREQ=YEARLY
 SUMMARY:🧅 Fin récolte Oignons
 DESCRIPTION:Fin de la période de récolte des oignons au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -489,6 +549,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ail-debut-20250715@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250715
+RRULE:FREQ=YEARLY
 SUMMARY:🧄 Début récolte Ail
 DESCRIPTION:Début de la période de récolte de l'ail au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -497,6 +558,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ail-fin-20250831@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250831
+RRULE:FREQ=YEARLY
 SUMMARY:🧄 Fin récolte Ail
 DESCRIPTION:Fin de la période de récolte de l'ail au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -505,6 +567,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pommes-terre-debut-20250715@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250715
+RRULE:FREQ=YEARLY
 SUMMARY:🥔 Début récolte Pommes de terre
 DESCRIPTION:Début de la période de récolte des pommes de terre au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -513,6 +576,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pommes-terre-fin-20251015@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20251015
+RRULE:FREQ=YEARLY
 SUMMARY:🥔 Fin récolte Pommes de terre
 DESCRIPTION:Fin de la période de récolte des pommes de terre au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -521,6 +585,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:courges-debut-20250901@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250901
+RRULE:FREQ=YEARLY
 SUMMARY:🎃 Début récolte Courges
 DESCRIPTION:Début de la période de récolte des courges au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -529,6 +594,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:courges-fin-20251031@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20251031
+RRULE:FREQ=YEARLY
 SUMMARY:🎃 Fin récolte Courges
 DESCRIPTION:Fin de la période de récolte des courges au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -537,6 +603,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:citrouilles-debut-20250901@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250901
+RRULE:FREQ=YEARLY
 SUMMARY:🎃 Début récolte Citrouilles
 DESCRIPTION:Début de la période de récolte des citrouilles au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -545,6 +612,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:citrouilles-fin-20251031@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20251031
+RRULE:FREQ=YEARLY
 SUMMARY:🎃 Fin récolte Citrouilles
 DESCRIPTION:Fin de la période de récolte des citrouilles au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -553,6 +621,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mais-debut-20250815@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250815
+RRULE:FREQ=YEARLY
 SUMMARY:🌽 Début récolte Maïs
 DESCRIPTION:Début de la période de récolte du maïs au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -561,6 +630,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mais-fin-20250930@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250930
+RRULE:FREQ=YEARLY
 SUMMARY:🌽 Fin récolte Maïs
 DESCRIPTION:Fin de la période de récolte du maïs au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -569,6 +639,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asperges-debut-20250510@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250510
+RRULE:FREQ=YEARLY
 SUMMARY:🌱 Début récolte Asperges
 DESCRIPTION:Début de la période de récolte des asperges au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -577,6 +648,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asperges-fin-20250615@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250615
+RRULE:FREQ=YEARLY
 SUMMARY:🌱 Fin récolte Asperges
 DESCRIPTION:Fin de la période de récolte des asperges au Québec
 CATEGORIES:LEGUMES,RECOLTE
@@ -585,6 +657,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:oranges-exclusion-20250101@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
 SUMMARY:🍊 Oranges - Non cultivable ❄️
 DESCRIPTION:Les agrumes comme les oranges ne peuvent pas être cultivés au Québec car ils sont trop sensibles au gel et nécessitent un climat subtropical avec des températures constamment chaudes.
 CATEGORIES:FRUITS,EXCLUSION
@@ -593,6 +666,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:citrons-exclusion-20250101@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
 SUMMARY:🍋 Citrons - Non cultivable ❄️
 DESCRIPTION:Les citrons ne peuvent pas être cultivés au Québec car ils nécessitent un climat subtropical et sont extrêmement sensibles au gel, même léger.
 CATEGORIES:FRUITS,EXCLUSION
@@ -601,6 +675,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pamplemousses-exclusion-20250101@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
 SUMMARY:🍊 Pamplemousses - Non cultivable ❄️
 DESCRIPTION:Les pamplemousses ne peuvent pas être cultivés au Québec car ils nécessitent un climat subtropical chaud et sont très sensibles aux températures froides.
 CATEGORIES:FRUITS,EXCLUSION
@@ -609,6 +684,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:avocats-exclusion-20250101@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
 SUMMARY:🥑 Avocats - Non cultivable 🌡️
 DESCRIPTION:Les avocats ne peuvent pas être cultivés au Québec car ils nécessitent une température minimale trop élevée pour notre climat et sont très sensibles au gel.
 CATEGORIES:FRUITS,EXCLUSION
@@ -617,6 +693,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:figues-exclusion-20250101@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
 SUMMARY:🟤 Figues - Non cultivable ⏰
 DESCRIPTION:Les figues ne sont pas adaptées au Québec car notre saison de croissance est trop courte et les figuiers gèlent facilement lors des hivers rigoureux.
 CATEGORIES:FRUITS,EXCLUSION
@@ -625,6 +702,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kiwis-exclusion-20250101@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
 SUMMARY:🥝 Kiwis - Non cultivable ⏰
 DESCRIPTION:Les kiwis ne sont pas adaptés au Québec car leur période de maturation est trop longue pour nos étés courts et ils nécessitent une saison de croissance plus étendue.
 CATEGORIES:FRUITS,EXCLUSION
@@ -633,6 +711,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:raisins-cuve-exclusion-20250101@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
 SUMMARY:🍇 Raisins de cuve - Très limité 🌡️
 DESCRIPTION:Les raisins de cuve sont très limités au Québec. Certaines variétés résistantes au froid peuvent être cultivées mais avec un succès variable selon les zones climatiques.
 CATEGORIES:FRUITS,EXCLUSION
@@ -641,6 +720,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:artichauts-exclusion-20250101@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
 SUMMARY:🟢 Artichauts - Non cultivable ⏰
 DESCRIPTION:Les artichauts ne peuvent pas être cultivés au Québec car notre saison de croissance est trop courte pour cette plante vivace sensible au gel qui nécessite une longue période de développement.
 CATEGORIES:LEGUMES,EXCLUSION
@@ -649,6 +729,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:okra-exclusion-20250101@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
 SUMMARY:🌶️ Okra - Non cultivable 🌡️
 DESCRIPTION:L'okra ne peut pas être cultivé au Québec car il nécessite beaucoup plus de chaleur que ce qui est disponible dans notre climat, même pendant les étés les plus chauds.
 CATEGORIES:LEGUMES,EXCLUSION
@@ -657,6 +738,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:patates-douces-exclusion-20250101@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
 SUMMARY:🍠 Patates douces - Très limité ⏰
 DESCRIPTION:Les patates douces sont possibles au Québec mais avec un rendement très faible et une réussite aléatoire car notre saison de croissance est trop courte pour un développement optimal.
 CATEGORIES:LEGUMES,EXCLUSION
@@ -665,6 +747,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:melons-exclusion-20250101@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
 SUMMARY:🍈 Melons - Très limité 🌡️
 DESCRIPTION:Les melons nécessitent beaucoup de chaleur constante pour mûrir correctement. Au Québec, leur culture a une réussite très aléatoire en raison des températures insuffisantes.
 CATEGORIES:LEGUMES,EXCLUSION
@@ -673,6 +756,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pasteques-exclusion-20250101@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
 SUMMARY:🍉 Pastèques - Non cultivable ⏰
 DESCRIPTION:Les pastèques ne peuvent pas être cultivées au Québec car notre saison de croissance est trop courte pour la plupart des variétés qui nécessitent 4-5 mois de chaleur intense.
 CATEGORIES:LEGUMES,EXCLUSION
@@ -681,6 +765,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fenouil-exclusion-20250101@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
 SUMMARY:🌿 Fenouil bulbeux - Technique complexe 🔧
 DESCRIPTION:Le fenouil bulbeux est possible au Québec mais sa technique de culture est plus complexe et nécessite des conditions spécifiques de température et d'arrosage difficiles à maintenir.
 CATEGORIES:LEGUMES,EXCLUSION
@@ -689,6 +774,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:celeri-rave-exclusion-20250101@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
 SUMMARY:🌿 Céleri-rave - Saison longue ⏰
 DESCRIPTION:Le céleri-rave est possible au Québec mais demande une saison de croissance très longue (120+ jours) et des conditions de culture précises qui peuvent être difficiles à maintenir.
 CATEGORIES:LEGUMES,EXCLUSION
@@ -697,6 +783,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:endives-exclusion-20250101@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
 SUMMARY:🥬 Endives - Culture complexe 🔧
 DESCRIPTION:Les endives nécessitent une culture en deux temps : d'abord la production des racines, puis le forçage en cave pour obtenir les chicons blancs. Cette technique est complexe pour les jardiniers amateurs.
 CATEGORIES:LEGUMES,EXCLUSION
@@ -705,6 +792,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:salsifis-exclusion-20250101@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
 SUMMARY:🌿 Salsifis - Peu populaire ⏰
 DESCRIPTION:Le salsifis a un cycle de croissance très long (150+ jours) et est peu populaire auprès des jardiniers québécois en raison de sa culture exigeante et de son goût particulier.
 CATEGORIES:LEGUMES,EXCLUSION
