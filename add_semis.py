@@ -21,7 +21,7 @@ SEMIS_MAPPING = {
     'poires': {'jours_avant': 0, 'type': 'arbre', 'emoji': '🌳'},  # Pas de semis annuel
     'prunes': {'jours_avant': 0, 'type': 'arbre', 'emoji': '🌳'},  # Pas de semis annuel
     'rhubarbe': {'jours_avant': 180, 'type': 'plants', 'emoji': '🌱'},
-    
+
     # LEGUMES
     'laitue': {'jours_avant': 45, 'type': 'graines', 'emoji': '🌱'},
     'epinards': {'jours_avant': 50, 'type': 'graines', 'emoji': '🌱'},
@@ -58,37 +58,37 @@ def calculate_semis_date(recolte_date_str, jours_avant):
     year = int(recolte_date_str[:4])
     month = int(recolte_date_str[4:6])
     day = int(recolte_date_str[6:8])
-    
+
     recolte_date = datetime(year, month, day)
     semis_date = recolte_date - timedelta(days=jours_avant)
-    
+
     return semis_date.strftime('%Y%m%d')
 
 def add_semis_events(filename):
     """Ajoute les événements de semis au fichier ICS"""
-    
+
     with open(filename, 'r', encoding='utf-8') as f:
         content = f.read()
-    
+
     # Trouver tous les événements de début de récolte
     pattern = r'BEGIN:VEVENT\nUID:([^-]+)-debut-(\d{8})@semis-recoltes-quebec\nDTSTART;VALUE=DATE:(\d{8})\nRRULE:FREQ=YEARLY\nSUMMARY:([^\\n]+)\nDESCRIPTION:([^\\n]+)\nCATEGORIES:(FRUITS|LEGUMES),RECOLTE\nEND:VEVENT'
-    
+
     matches = re.findall(pattern, content)
     semis_events = []
-    
+
     for match in matches:
         culture, date_str, dtstart, summary, description, category = match
-        
+
         if culture in SEMIS_MAPPING:
             semis_info = SEMIS_MAPPING[culture]
-            
+
             # Skip si pas de semis annuel (arbres/arbustes)
             if semis_info['jours_avant'] == 0:
                 continue
-                
+
             # Calculer la date de semis
             semis_date = calculate_semis_date(dtstart, semis_info['jours_avant'])
-            
+
             # Créer l'événement de semis
             semis_event = f"""BEGIN:VEVENT
 UID:{culture}-semis-{semis_date}@semis-recoltes-quebec
@@ -101,27 +101,27 @@ END:VEVENT
 
 """
             semis_events.append(semis_event)
-    
+
     # Insérer les événements de semis après l'en-tête du calendrier
     header_end = content.find('X-WR-CALDESC:Calendrier des périodes de récolte des fruits et légumes au Québec')
     if header_end != -1:
         header_end = content.find('\n', header_end) + 1
-        new_content = (content[:header_end] + 
-                      '\n' + ''.join(semis_events) + 
+        new_content = (content[:header_end] +
+                      '\n' + ''.join(semis_events) +
                       content[header_end:])
     else:
         new_content = content
-    
+
     # Écrire le nouveau fichier
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(new_content)
-    
+
     print(f"✅ {len(semis_events)} événements de semis ajoutés avec succès!")
     print(f"📁 Fichier mis à jour: {filename}")
 
 if __name__ == "__main__":
     filename = "semis-et-recoltes.ics"
-    
+
     try:
         add_semis_events(filename)
     except FileNotFoundError:
