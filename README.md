@@ -1,8 +1,10 @@
-# 🌱 Calendrier Semis et Récoltes - Québec
+# 🌱 Calendrier Semis et Récoltes - Québec | Quebec Planting and Harvest Calendar
 
 Un calendrier au format ICS contenant les périodes de semis et récolte des fruits et légumes adaptés au climat du Québec, ainsi que les exclusions avec explications pour les variétés non cultivables.
 
-## 📅 Description
+*An ICS format calendar containing planting and harvest periods for fruits and vegetables adapted to Quebec's climate, along with exclusions and explanations for varieties not suitable for cultivation.*
+
+## 📅 Description | Description
 
 Ce projet fournit un calendrier complet pour les jardiniers québécois avec :
 
@@ -12,13 +14,30 @@ Ce projet fournit un calendrier complet pour les jardiniers québécois avec :
 - **Format ICS standard** compatible avec la plupart des applications de calendrier
 - **Emojis et descriptions détaillées** pour une meilleure lisibilité
 
-## 📁 Contenu
+*This project provides a complete calendar for Quebec gardeners with:*
 
+- *Planting periods for annual crops*
+- *Harvest periods for 39 fruits and vegetables*
+- *Exclusion events for varieties not adapted to Quebec's climate*
+- *Standard ICS format compatible with most calendar applications*
+- *Emojis and detailed descriptions for better readability*
+
+## 📁 Contenu | Files
+
+### Français | French
 - `semis-et-recoltes.ics` - Fichier calendrier principal avec récurrence annuelle
+- `README.md` - Documentation du projet
+
+### English
+- `planting-and-harvest-quebec.ics` - Main calendar file with annual recurrence
+- Documentation included in this README
+
+### Scripts Python | Python Scripts
 - `add_rrule.py` - Script Python pour ajouter les règles de récurrence
 - `add_semis.py` - Script Python pour ajouter les événements de semis
 - `verify_ics.py` - Script Python pour vérifier et nettoyer le fichier ICS
-- `README.md` - Documentation du projet
+- `clean_duplicates.py` - Script pour nettoyer les doublons
+- `count_stats.py` - Script pour afficher les statistiques du calendrier
 
 ## 🍎 Fruits inclus (13 variétés)
 
@@ -109,34 +128,44 @@ Les **arbres fruitiers** et **arbustes** ne nécessitent pas de semis annuel :
 
 Les dates de semis sont calculées automatiquement en fonction des périodes de récolte optimales.
 
-## 📲 Installation et utilisation
+## 📲 Installation et utilisation | Installation and Usage
 
-### 1. Télécharger le calendrier
+### 1. Télécharger le calendrier | Download the calendar
 ```bash
-git clone https://github.com/[votre-username]/ics.git
-cd ics
+git clone https://github.com/wetwicky/calendrier-recolte-et-semis-au-quebec.git
+cd calendrier-recolte-et-semis-au-quebec
 ```
 
-### 2. Importer dans votre application de calendrier
+### 2. Choisir la version | Choose your version
+
+#### Français 🇫🇷
+Utilisez le fichier `semis-et-recoltes.ics`
+
+#### English 🇬🇧
+Use the file `planting-and-harvest-quebec.ics`
+
+### 3. Importer dans votre application de calendrier | Import into your calendar app
 
 #### Google Calendar
-1. Ouvrez Google Calendar
-2. Cliquez sur le `+` à côté de "Autres calendriers"
-3. Sélectionnez "Créer un calendrier" ou "Importer"
-4. Importez le fichier `semis-et-recoltes.ics`
+1. Ouvrez Google Calendar | Open Google Calendar
+2. Cliquez sur le `+` à côté de "Autres calendriers" | Click the `+` next to "Other calendars"
+3. Sélectionnez "Créer un calendrier" ou "Importer" | Select "Create calendar" or "Import"
+4. Importez le fichier ICS de votre choix | Import your chosen ICS file
 
 #### Apple Calendar (macOS/iOS)
-1. Double-cliquez sur le fichier `semis-et-recoltes.ics`
-2. Choisissez le calendrier de destination
-3. Cliquez sur "Importer"
+1. Double-cliquez sur le fichier ICS | Double-click the ICS file
+2. Choisissez le calendrier de destination | Choose the destination calendar
+3. Cliquez sur "Importer" | Click "Import"
 
 #### Outlook
-1. Ouvrez Outlook
-2. Allez dans Fichier > Ouvrir et exporter > Importer/Exporter
-3. Sélectionnez le fichier `semis-et-recoltes.ics`
+1. Ouvrez Outlook | Open Outlook
+2. Allez dans Fichier > Ouvrir et exporter > Importer/Exporter | Go to File > Open & Export > Import/Export
+3. Sélectionnez le fichier ICS | Select the ICS file
 
-#### Applications mobiles
+#### Applications mobiles | Mobile Apps
 La plupart des applications de calendrier mobile supportent l'importation de fichiers ICS via le partage de fichiers.
+
+*Most mobile calendar apps support ICS file import through file sharing.*
 
 ## 🌿 Catégories d'événements
 
@@ -195,28 +224,30 @@ Exemple :
 feat(calendar): ✨ ajouter périodes de récolte pour les herbes aromatiques
 ```
 
-## 📍 Zones climatiques
+## 📍 Zones climatiques | Climate Zones
 
-Ce calendrier est optimisé pour :
-- **Zone de rusticité** : 3a à 5b (selon Agriculture Canada)
-- **Régions** : Sud du Québec, vallée du Saint-Laurent, Montréal, Québec
-- **Climat** : Continental humide avec hivers froids
+Ce calendrier est optimisé pour : *This calendar is optimized for:*
+- **Zone de rusticité** : 3a à 5b (selon Agriculture Canada) | **Hardiness zone**: 3a to 5b (Agriculture Canada)
+- **Régions** : Sud du Québec, vallée du Saint-Laurent, Montréal, Québec | **Regions**: Southern Quebec, St. Lawrence Valley, Montreal, Quebec City
+- **Climat** : Continental humide avec hivers froids | **Climate**: Humid continental with cold winters
 
-## 📚 Références
+## 📚 Références | References
 
-- Agriculture et Agroalimentaire Canada
-- Guide de jardinage du Québec
-- Ministère de l'Agriculture du Québec (MAPAQ)
-- Sociétés horticoles locales
+- Agriculture et Agroalimentaire Canada | Agriculture and Agri-Food Canada
+- Guide de jardinage du Québec | Quebec Gardening Guide
+- Ministère de l'Agriculture du Québec (MAPAQ) | Quebec Ministry of Agriculture
+- Sociétés horticoles locales | Local horticultural societies
 
-## 📄 Licence
+## 📄 Licence | License
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
+*This project is under MIT license. See the `LICENSE` file for more details.*
+
 ## 📧 Contact
 
-Pour questions ou suggestions : [votre-email@exemple.com]
+Pour questions ou suggestions | For questions or suggestions: [votre-email@exemple.com]
 
 ---
 
-**Bon jardinage ! 🌱**
+**Bon jardinage ! 🌱 | Happy gardening! 🌱**

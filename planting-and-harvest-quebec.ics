@@ -1,0 +1,1008 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Quebec Planting and Harvest Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planting and Harvest - Quebec
+X-WR-CALDESC:Calendar of fruit and vegetable harvest and planting periods in Quebec
+
+BEGIN:VEVENT
+UID:strawberries-planting-20250317@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250317
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Strawberry Planting (plants)
+DESCRIPTION:Optimal period for planting strawberries in Quebec.\n\n💡 Practical tips: Prefer certified plants. Plant in well-drained soil. Mulch to protect from frost.
+CATEGORIES:FRUITS,PLANTING
+END:VEVENT
+
+BEGIN:VEVENT
+UID:raspberries-planting-20240701@planting-harvest-quebec
+DTSTART;VALUE=DATE:20240701
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Raspberry Planting (plants)
+DESCRIPTION:Optimal period for planting raspberries in Quebec.\n\n💡 Practical tips: Choose cold-hardy varieties adapted to Quebec climate. Plant in spring or fall.
+CATEGORIES:FRUITS,PLANTING
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rhubarb-planting-20241203@planting-harvest-quebec
+DTSTART;VALUE=DATE:20241203
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Rhubarb Planting (plants)
+DESCRIPTION:Optimal period for planting rhubarb in Quebec.\n\n💡 Practical tips: Divide existing plants in spring. Rich, well-drained soil required.
+CATEGORIES:FRUITS,PLANTING
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lettuce-planting-20250417@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250417
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Lettuce Seeding (seeds)
+DESCRIPTION:Optimal period for seeding lettuce in Quebec.\n\n💡 Practical tips: Successive seeding every 2 weeks. Prefers cool weather. Water regularly.
+CATEGORIES:VEGETABLES,PLANTING
+END:VEVENT
+
+BEGIN:VEVENT
+UID:radishes-planting-20250415@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250415
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Radish Seeding (seeds)
+DESCRIPTION:Optimal period for seeding radishes in Quebec.\n\n💡 Practical tips: Fast growth (30 days). Direct seed. Avoid hot summer period.
+CATEGORIES:VEGETABLES,PLANTING
+END:VEVENT
+
+BEGIN:VEVENT
+UID:carrots-planting-20250412@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250412
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Carrot Seeding (seeds)
+DESCRIPTION:Optimal period for seeding carrots in Quebec.\n\n💡 Practical tips: Loose, deep soil. Thin seedlings. Avoid fresh manure.
+CATEGORIES:VEGETABLES,PLANTING
+END:VEVENT
+
+BEGIN:VEVENT
+UID:beets-planting-20250516@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250516
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Beet Seeding (seeds)
+DESCRIPTION:Optimal period for seeding beets in Quebec.\n\n💡 Practical tips: Soak seeds 24h before sowing. Thin to 10cm spacing between plants.
+CATEGORIES:VEGETABLES,PLANTING
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fava-beans-planting-20250501@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250501
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Fava Bean Seeding (seeds)
+DESCRIPTION:Optimal period for seeding fava beans in Quebec.\n\n💡 Practical tips: Very cold resistant. Fixes nitrogen in soil. Pinch tops if aphids appear.
+CATEGORIES:VEGETABLES,PLANTING
+END:VEVENT
+
+BEGIN:VEVENT
+UID:zucchini-planting-20250416@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250416
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Zucchini Seeding (seeds)
+DESCRIPTION:Optimal period for seeding zucchini in Quebec.\n\n💡 Practical tips: Start indoors, transplant to warm soil. Requires lots of space (1m²).
+CATEGORIES:VEGETABLES,PLANTING
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tomatoes-planting-20250317@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250317
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Tomato Seeding (seeds)
+DESCRIPTION:Optimal period for seeding tomatoes in Quebec.\n\n💡 Practical tips: Start indoors under lights. Transplant after last frost. Staking required.
+CATEGORIES:VEGETABLES,PLANTING
+END:VEVENT
+
+BEGIN:VEVENT
+UID:broccoli-planting-20250412@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250412
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Broccoli Seeding (seeds)
+DESCRIPTION:Optimal period for seeding broccoli in Quebec.\n\n💡 Practical tips: Prefers cool weather. Transplant young plants. Harvest before flowering.
+CATEGORIES:VEGETABLES,PLANTING
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cabbage-planting-20250412@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250412
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Cabbage Seeding (seeds)
+DESCRIPTION:Optimal period for seeding cabbage in Quebec.\n\n💡 Practical tips: Cold resistant. Protect from flea beetles with row cover. Hill up plants.
+CATEGORIES:VEGETABLES,PLANTING
+END:VEVENT
+
+BEGIN:VEVENT
+UID:leeks-planting-20250403@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250403
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Leek Seeding (seeds)
+DESCRIPTION:Optimal period for seeding leeks in Quebec.\n\n💡 Practical tips: Start indoors. Hill up regularly to blanch. Frost resistant.
+CATEGORIES:VEGETABLES,PLANTING
+END:VEVENT
+
+BEGIN:VEVENT
+UID:garlic-planting-20241117@planting-harvest-quebec
+DTSTART;VALUE=DATE:20241117
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Garlic Planting (bulbs)
+DESCRIPTION:Optimal period for planting garlic in Quebec.\n\n💡 Practical tips: Plant in fall before frost. Choose winter garlic varieties. Mulch well.
+CATEGORIES:VEGETABLES,PLANTING
+END:VEVENT
+
+BEGIN:VEVENT
+UID:squash-planting-20250504@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250504
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Squash Seeding (seeds)
+DESCRIPTION:Optimal period for seeding squash in Quebec.\n\n💡 Practical tips: Requires lots of space. Rich, warm soil. Hand pollination if necessary.
+CATEGORIES:VEGETABLES,PLANTING
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pumpkins-planting-20250504@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250504
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Pumpkin Seeding (seeds)
+DESCRIPTION:Optimal period for seeding pumpkins in Quebec.\n\n💡 Practical tips: Enormous space required (3m²). Pinch secondary stems. Protect fruits from soil.
+CATEGORIES:VEGETABLES,PLANTING
+END:VEVENT
+
+BEGIN:VEVENT
+UID:corn-planting-20250517@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250517
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Corn Seeding (seeds)
+DESCRIPTION:Optimal period for seeding corn in Quebec.\n\n💡 Practical tips: Plant in blocks for pollination. Warm soil required. Hill up plants.
+CATEGORIES:VEGETABLES,PLANTING
+END:VEVENT
+
+BEGIN:VEVENT
+UID:strawberries-start-20250615@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250615
+RRULE:FREQ=YEARLY
+SUMMARY:🍓 Strawberry Harvest Begins
+DESCRIPTION:Beginning of strawberry harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:strawberries-end-20250731@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250731
+RRULE:FREQ=YEARLY
+SUMMARY:🍓 Strawberry Harvest Ends
+DESCRIPTION:End of strawberry harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:raspberries-start-20250701@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250701
+RRULE:FREQ=YEARLY
+SUMMARY:🔴 Raspberry Harvest Begins
+DESCRIPTION:Beginning of raspberry harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:raspberries-end-20250815@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250815
+RRULE:FREQ=YEARLY
+SUMMARY:🔴 Raspberry Harvest Ends
+DESCRIPTION:End of raspberry harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blueberries-start-20250720@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250720
+RRULE:FREQ=YEARLY
+SUMMARY:🫐 Blueberry Harvest Begins
+DESCRIPTION:Beginning of blueberry harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blueberries-end-20250831@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250831
+RRULE:FREQ=YEARLY
+SUMMARY:🫐 Blueberry Harvest Ends
+DESCRIPTION:End of blueberry harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blackberries-start-20250801@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250801
+RRULE:FREQ=YEARLY
+SUMMARY:🫐 Blackberry Harvest Begins
+DESCRIPTION:Beginning of blackberry harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blackberries-end-20250915@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250915
+RRULE:FREQ=YEARLY
+SUMMARY:🫐 Blackberry Harvest Ends
+DESCRIPTION:End of blackberry harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:currants-start-20250710@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250710
+RRULE:FREQ=YEARLY
+SUMMARY:🍇 Currant Harvest Begins
+DESCRIPTION:Beginning of currant harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:currants-end-20250820@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250820
+RRULE:FREQ=YEARLY
+SUMMARY:🍇 Currant Harvest Ends
+DESCRIPTION:End of currant harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blackcurrants-start-20250715@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250715
+RRULE:FREQ=YEARLY
+SUMMARY:🫐 Black Currant Harvest Begins
+DESCRIPTION:Beginning of black currant harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blackcurrants-end-20250825@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250825
+RRULE:FREQ=YEARLY
+SUMMARY:🫐 Black Currant Harvest Ends
+DESCRIPTION:End of black currant harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:apples-start-20250901@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250901
+RRULE:FREQ=YEARLY
+SUMMARY:🍎 Apple Harvest Begins
+DESCRIPTION:Beginning of apple harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:apples-end-20251031@planting-harvest-quebec
+DTSTART;VALUE=DATE:20251031
+RRULE:FREQ=YEARLY
+SUMMARY:🍎 Apple Harvest Ends
+DESCRIPTION:End of apple harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pears-start-20250915@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250915
+RRULE:FREQ=YEARLY
+SUMMARY:🍐 Pear Harvest Begins
+DESCRIPTION:Beginning of pear harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pears-end-20251015@planting-harvest-quebec
+DTSTART;VALUE=DATE:20251015
+RRULE:FREQ=YEARLY
+SUMMARY:🍐 Pear Harvest Ends
+DESCRIPTION:End of pear harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:plums-start-20250820@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250820
+RRULE:FREQ=YEARLY
+SUMMARY:🟣 Plum Harvest Begins
+DESCRIPTION:Beginning of plum harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:plums-end-20250930@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250930
+RRULE:FREQ=YEARLY
+SUMMARY:🟣 Plum Harvest Ends
+DESCRIPTION:End of plum harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rhubarb-start-20250601@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250601
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Rhubarb Harvest Begins
+DESCRIPTION:Beginning of rhubarb harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rhubarb-end-20250731@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250731
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Rhubarb Harvest Ends
+DESCRIPTION:End of rhubarb harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lettuce-start-20250601@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250601
+RRULE:FREQ=YEARLY
+SUMMARY:🥬 Lettuce Harvest Begins
+DESCRIPTION:Beginning of lettuce harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lettuce-end-20250930@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250930
+RRULE:FREQ=YEARLY
+SUMMARY:🥬 Lettuce Harvest Ends
+DESCRIPTION:End of lettuce harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:spinach-start-20250515@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250515
+RRULE:FREQ=YEARLY
+SUMMARY:🌿 Spinach Harvest Begins
+DESCRIPTION:Beginning of spinach harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:spinach-end-20251015@planting-harvest-quebec
+DTSTART;VALUE=DATE:20251015
+RRULE:FREQ=YEARLY
+SUMMARY:🌿 Spinach Harvest Ends
+DESCRIPTION:End of spinach harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:radishes-start-20250515@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250515
+RRULE:FREQ=YEARLY
+SUMMARY:🔴 Radish Harvest Begins
+DESCRIPTION:Beginning of radish harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:radishes-end-20251001@planting-harvest-quebec
+DTSTART;VALUE=DATE:20251001
+RRULE:FREQ=YEARLY
+SUMMARY:🔴 Radish Harvest Ends
+DESCRIPTION:End of radish harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:carrots-start-20250701@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250701
+RRULE:FREQ=YEARLY
+SUMMARY:🥕 Carrot Harvest Begins
+DESCRIPTION:Beginning of carrot harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:carrots-end-20251031@planting-harvest-quebec
+DTSTART;VALUE=DATE:20251031
+RRULE:FREQ=YEARLY
+SUMMARY:🥕 Carrot Harvest Ends
+DESCRIPTION:End of carrot harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:beets-start-20250715@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250715
+RRULE:FREQ=YEARLY
+SUMMARY:🟠 Beet Harvest Begins
+DESCRIPTION:Beginning of beet harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:beets-end-20251031@planting-harvest-quebec
+DTSTART;VALUE=DATE:20251031
+RRULE:FREQ=YEARLY
+SUMMARY:🟠 Beet Harvest Ends
+DESCRIPTION:End of beet harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:turnips-start-20250701@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250701
+RRULE:FREQ=YEARLY
+SUMMARY:⚪ Turnip Harvest Begins
+DESCRIPTION:Beginning of turnip harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:turnips-end-20251031@planting-harvest-quebec
+DTSTART;VALUE=DATE:20251031
+RRULE:FREQ=YEARLY
+SUMMARY:⚪ Turnip Harvest Ends
+DESCRIPTION:End of turnip harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:peas-start-20250615@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250615
+RRULE:FREQ=YEARLY
+SUMMARY:🟢 Pea Harvest Begins
+DESCRIPTION:Beginning of pea harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:peas-end-20250731@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250731
+RRULE:FREQ=YEARLY
+SUMMARY:🟢 Pea Harvest Ends
+DESCRIPTION:End of pea harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:green-beans-start-20250715@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250715
+RRULE:FREQ=YEARLY
+SUMMARY:🫛 Green Bean Harvest Begins
+DESCRIPTION:Beginning of green bean harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:green-beans-end-20250915@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250915
+RRULE:FREQ=YEARLY
+SUMMARY:🫛 Green Bean Harvest Ends
+DESCRIPTION:End of green bean harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fava-beans-start-20250720@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250720
+RRULE:FREQ=YEARLY
+SUMMARY:🫘 Fava Bean Harvest Begins
+DESCRIPTION:Beginning of fava bean harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fava-beans-end-20250915@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250915
+RRULE:FREQ=YEARLY
+SUMMARY:🫘 Fava Bean Harvest Ends
+DESCRIPTION:End of fava bean harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:zucchini-start-20250715@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250715
+RRULE:FREQ=YEARLY
+SUMMARY:🥒 Zucchini Harvest Begins
+DESCRIPTION:Beginning of zucchini harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:zucchini-end-20250930@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250930
+RRULE:FREQ=YEARLY
+SUMMARY:🥒 Zucchini Harvest Ends
+DESCRIPTION:End of zucchini harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cucumbers-start-20250720@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250720
+RRULE:FREQ=YEARLY
+SUMMARY:🥒 Cucumber Harvest Begins
+DESCRIPTION:Beginning of cucumber harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cucumbers-end-20250930@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250930
+RRULE:FREQ=YEARLY
+SUMMARY:🥒 Cucumber Harvest Ends
+DESCRIPTION:End of cucumber harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tomatoes-start-20250715@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250715
+RRULE:FREQ=YEARLY
+SUMMARY:🍅 Tomato Harvest Begins
+DESCRIPTION:Beginning of tomato harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tomatoes-end-20251001@planting-harvest-quebec
+DTSTART;VALUE=DATE:20251001
+RRULE:FREQ=YEARLY
+SUMMARY:🍅 Tomato Harvest Ends
+DESCRIPTION:End of tomato harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:peppers-start-20250801@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250801
+RRULE:FREQ=YEARLY
+SUMMARY:🫑 Pepper Harvest Begins
+DESCRIPTION:Beginning of pepper harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:peppers-end-20250930@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250930
+RRULE:FREQ=YEARLY
+SUMMARY:🫑 Pepper Harvest Ends
+DESCRIPTION:End of pepper harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:eggplants-start-20250801@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250801
+RRULE:FREQ=YEARLY
+SUMMARY:🍆 Eggplant Harvest Begins
+DESCRIPTION:Beginning of eggplant harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:eggplants-end-20250930@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250930
+RRULE:FREQ=YEARLY
+SUMMARY:🍆 Eggplant Harvest Ends
+DESCRIPTION:End of eggplant harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:broccoli-start-20250701@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250701
+RRULE:FREQ=YEARLY
+SUMMARY:🥦 Broccoli Harvest Begins
+DESCRIPTION:Beginning of broccoli harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:broccoli-end-20251031@planting-harvest-quebec
+DTSTART;VALUE=DATE:20251031
+RRULE:FREQ=YEARLY
+SUMMARY:🥦 Broccoli Harvest Ends
+DESCRIPTION:End of broccoli harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cauliflower-start-20250715@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250715
+RRULE:FREQ=YEARLY
+SUMMARY:🥬 Cauliflower Harvest Begins
+DESCRIPTION:Beginning of cauliflower harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cauliflower-end-20251031@planting-harvest-quebec
+DTSTART;VALUE=DATE:20251031
+RRULE:FREQ=YEARLY
+SUMMARY:🥬 Cauliflower Harvest Ends
+DESCRIPTION:End of cauliflower harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cabbage-start-20250701@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250701
+RRULE:FREQ=YEARLY
+SUMMARY:🥬 Cabbage Harvest Begins
+DESCRIPTION:Beginning of cabbage harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cabbage-end-20251115@planting-harvest-quebec
+DTSTART;VALUE=DATE:20251115
+RRULE:FREQ=YEARLY
+SUMMARY:🥬 Cabbage Harvest Ends
+DESCRIPTION:End of cabbage harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:brussels-sprouts-start-20250901@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250901
+RRULE:FREQ=YEARLY
+SUMMARY:🥬 Brussels Sprouts Harvest Begins
+DESCRIPTION:Beginning of Brussels sprouts harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:brussels-sprouts-end-20251130@planting-harvest-quebec
+DTSTART;VALUE=DATE:20251130
+RRULE:FREQ=YEARLY
+SUMMARY:🥬 Brussels Sprouts Harvest Ends
+DESCRIPTION:End of Brussels sprouts harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:leeks-start-20250801@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250801
+RRULE:FREQ=YEARLY
+SUMMARY:🥬 Leek Harvest Begins
+DESCRIPTION:Beginning of leek harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:leeks-end-20251115@planting-harvest-quebec
+DTSTART;VALUE=DATE:20251115
+RRULE:FREQ=YEARLY
+SUMMARY:🥬 Leek Harvest Ends
+DESCRIPTION:End of leek harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:onions-start-20250801@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250801
+RRULE:FREQ=YEARLY
+SUMMARY:🧅 Onion Harvest Begins
+DESCRIPTION:Beginning of onion harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:onions-end-20251015@planting-harvest-quebec
+DTSTART;VALUE=DATE:20251015
+RRULE:FREQ=YEARLY
+SUMMARY:🧅 Onion Harvest Ends
+DESCRIPTION:End of onion harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:garlic-start-20250715@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250715
+RRULE:FREQ=YEARLY
+SUMMARY:🧄 Garlic Harvest Begins
+DESCRIPTION:Beginning of garlic harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:garlic-end-20250831@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250831
+RRULE:FREQ=YEARLY
+SUMMARY:🧄 Garlic Harvest Ends
+DESCRIPTION:End of garlic harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:potatoes-start-20250715@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250715
+RRULE:FREQ=YEARLY
+SUMMARY:🥔 Potato Harvest Begins
+DESCRIPTION:Beginning of potato harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:potatoes-end-20251015@planting-harvest-quebec
+DTSTART;VALUE=DATE:20251015
+RRULE:FREQ=YEARLY
+SUMMARY:🥔 Potato Harvest Ends
+DESCRIPTION:End of potato harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:squash-start-20250901@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250901
+RRULE:FREQ=YEARLY
+SUMMARY:🎃 Squash Harvest Begins
+DESCRIPTION:Beginning of squash harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:squash-end-20251031@planting-harvest-quebec
+DTSTART;VALUE=DATE:20251031
+RRULE:FREQ=YEARLY
+SUMMARY:🎃 Squash Harvest Ends
+DESCRIPTION:End of squash harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pumpkins-start-20250901@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250901
+RRULE:FREQ=YEARLY
+SUMMARY:🎃 Pumpkin Harvest Begins
+DESCRIPTION:Beginning of pumpkin harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pumpkins-end-20251031@planting-harvest-quebec
+DTSTART;VALUE=DATE:20251031
+RRULE:FREQ=YEARLY
+SUMMARY:🎃 Pumpkin Harvest Ends
+DESCRIPTION:End of pumpkin harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:corn-start-20250815@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250815
+RRULE:FREQ=YEARLY
+SUMMARY:🌽 Corn Harvest Begins
+DESCRIPTION:Beginning of corn harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:corn-end-20250930@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250930
+RRULE:FREQ=YEARLY
+SUMMARY:🌽 Corn Harvest Ends
+DESCRIPTION:End of corn harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:asparagus-start-20250510@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250510
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Asparagus Harvest Begins
+DESCRIPTION:Beginning of asparagus harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:asparagus-end-20250615@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250615
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Asparagus Harvest Ends
+DESCRIPTION:End of asparagus harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:oranges-exclusion-20250101@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
+SUMMARY:🍊 Oranges - Not Suitable ❄️
+DESCRIPTION:Citrus fruits like oranges cannot be grown in Quebec as they are too sensitive to frost and require a subtropical climate with consistently warm temperatures.
+CATEGORIES:FRUITS,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lemons-exclusion-20250101@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
+SUMMARY:🍋 Lemons - Not Suitable ❄️
+DESCRIPTION:Lemons cannot be grown in Quebec as they require a subtropical climate and are extremely sensitive to frost, even light frost.
+CATEGORIES:FRUITS,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:grapefruits-exclusion-20250101@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
+SUMMARY:🍊 Grapefruits - Not Suitable ❄️
+DESCRIPTION:Grapefruits cannot be grown in Quebec as they require a warm subtropical climate and are very sensitive to cold temperatures.
+CATEGORIES:FRUITS,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:avocados-exclusion-20250101@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
+SUMMARY:🥑 Avocados - Not Suitable 🌡️
+DESCRIPTION:Avocados cannot be grown in Quebec as they require minimum temperatures too high for our climate and are very sensitive to frost.
+CATEGORIES:FRUITS,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:figs-exclusion-20250101@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
+SUMMARY:🟤 Figs - Not Suitable ⏰
+DESCRIPTION:Figs are not suitable for Quebec as our growing season is too short and fig trees freeze easily during harsh winters.
+CATEGORIES:FRUITS,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:kiwis-exclusion-20250101@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
+SUMMARY:🥝 Kiwis - Not Suitable ⏰
+DESCRIPTION:Kiwis are not suitable for Quebec as their ripening period is too long for our short summers and they require a more extended growing season.
+CATEGORIES:FRUITS,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wine-grapes-exclusion-20250101@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
+SUMMARY:🍇 Wine Grapes - Very Limited 🌡️
+DESCRIPTION:Wine grapes are very limited in Quebec. Some cold-resistant varieties can be grown but with variable success depending on climate zones.
+CATEGORIES:FRUITS,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:artichokes-exclusion-20250101@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
+SUMMARY:🟢 Artichokes - Not Suitable ⏰
+DESCRIPTION:Artichokes cannot be grown in Quebec as our growing season is too short for this frost-sensitive perennial plant that requires a long development period.
+CATEGORIES:VEGETABLES,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:okra-exclusion-20250101@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
+SUMMARY:🌶️ Okra - Not Suitable 🌡️
+DESCRIPTION:Okra cannot be grown in Quebec as it requires much more heat than is available in our climate, even during the hottest summers.
+CATEGORIES:VEGETABLES,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sweet-potatoes-exclusion-20250101@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
+SUMMARY:🍠 Sweet Potatoes - Very Limited ⏰
+DESCRIPTION:Sweet potatoes are possible in Quebec but with very low yield and random success as our growing season is too short for optimal development.
+CATEGORIES:VEGETABLES,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:melons-exclusion-20250101@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
+SUMMARY:🍈 Melons - Very Limited 🌡️
+DESCRIPTION:Melons require a lot of consistent heat to ripen properly. In Quebec, their cultivation has very random success due to insufficient temperatures.
+CATEGORIES:VEGETABLES,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:watermelons-exclusion-20250101@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
+SUMMARY:🍉 Watermelons - Not Suitable ⏰
+DESCRIPTION:Watermelons cannot be grown in Quebec as our growing season is too short for most varieties that require 4-5 months of intense heat.
+CATEGORIES:VEGETABLES,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fennel-exclusion-20250101@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
+SUMMARY:🌿 Bulb Fennel - Complex Technique 🔧
+DESCRIPTION:Bulb fennel is possible in Quebec but its cultivation technique is more complex and requires specific temperature and watering conditions that are difficult to maintain.
+CATEGORIES:VEGETABLES,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:celeriac-exclusion-20250101@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
+SUMMARY:🌿 Celeriac - Long Season ⏰
+DESCRIPTION:Celeriac is possible in Quebec but requires a very long growing season (120+ days) and precise growing conditions that can be difficult to maintain.
+CATEGORIES:VEGETABLES,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:endives-exclusion-20250101@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
+SUMMARY:🥬 Belgian Endives - Complex Culture 🔧
+DESCRIPTION:Belgian endives require a two-stage cultivation: first growing the roots, then forcing in a cellar to obtain white chicons. This technique is complex for amateur gardeners.
+CATEGORIES:VEGETABLES,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:salsify-exclusion-20250101@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
+SUMMARY:🌿 Salsify - Unpopular ⏰
+DESCRIPTION:Salsify has a very long growth cycle (150+ days) and is unpopular among Quebec gardeners due to its demanding cultivation and particular taste.
+CATEGORIES:VEGETABLES,EXCLUSION
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cherries-start-20250615@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250615
+RRULE:FREQ=YEARLY
+SUMMARY:🍒 Cherry Harvest Begins
+DESCRIPTION:Beginning of cherry harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cherries-end-20250815@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250815
+RRULE:FREQ=YEARLY
+SUMMARY:🍒 Cherry Harvest Ends
+DESCRIPTION:End of cherry harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ground-cherries-start-20250815@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250815
+RRULE:FREQ=YEARLY
+SUMMARY:🟡 Ground Cherry Harvest Begins
+DESCRIPTION:Beginning of ground cherry (physalis) harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ground-cherries-end-20251015@planting-harvest-quebec
+DTSTART;VALUE=DATE:20251015
+RRULE:FREQ=YEARLY
+SUMMARY:🟡 Ground Cherry Harvest Ends
+DESCRIPTION:End of ground cherry (physalis) harvest period in Quebec
+CATEGORIES:FRUITS,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cherry-tomatoes-start-20250715@planting-harvest-quebec
+DTSTART;VALUE=DATE:20250715
+RRULE:FREQ=YEARLY
+SUMMARY:🍅 Cherry Tomato Harvest Begins
+DESCRIPTION:Beginning of cherry tomato harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cherry-tomatoes-end-20251001@planting-harvest-quebec
+DTSTART;VALUE=DATE:20251001
+RRULE:FREQ=YEARLY
+SUMMARY:🍅 Cherry Tomato Harvest Ends
+DESCRIPTION:End of cherry tomato harvest period in Quebec
+CATEGORIES:VEGETABLES,HARVEST
+END:VEVENT
+
+END:VCALENDAR
