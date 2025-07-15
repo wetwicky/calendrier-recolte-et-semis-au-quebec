@@ -1,0 +1,585 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendrier Semis et Récoltes Québec//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Semis et Récoltes - Québec
+X-WR-CALDESC:Calendrier des périodes de récolte des fruits et légumes au Québec
+
+BEGIN:VEVENT
+UID:fraises-debut-20250615@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250615
+SUMMARY:🍓 Début récolte Fraises
+DESCRIPTION:Début de la période de récolte des fraises au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fraises-fin-20250731@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250731
+SUMMARY:🍓 Fin récolte Fraises
+DESCRIPTION:Fin de la période de récolte des fraises au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:framboises-debut-20250701@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250701
+SUMMARY:🫐 Début récolte Framboises
+DESCRIPTION:Début de la période de récolte des framboises au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:framboises-fin-20250815@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250815
+SUMMARY:🫐 Fin récolte Framboises
+DESCRIPTION:Fin de la période de récolte des framboises au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bleuets-debut-20250720@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250720
+SUMMARY:🫐 Début récolte Bleuets
+DESCRIPTION:Début de la période de récolte des bleuets au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bleuets-fin-20250831@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250831
+SUMMARY:🫐 Fin récolte Bleuets
+DESCRIPTION:Fin de la période de récolte des bleuets au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mures-debut-20250801@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250801
+SUMMARY:🫐 Début récolte Mûres
+DESCRIPTION:Début de la période de récolte des mûres au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mures-fin-20250915@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250915
+SUMMARY:🫐 Fin récolte Mûres
+DESCRIPTION:Fin de la période de récolte des mûres au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:groseilles-debut-20250710@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250710
+SUMMARY:🍇 Début récolte Groseilles
+DESCRIPTION:Début de la période de récolte des groseilles au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:groseilles-fin-20250820@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250820
+SUMMARY:🍇 Fin récolte Groseilles
+DESCRIPTION:Fin de la période de récolte des groseilles au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cassis-debut-20250715@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250715
+SUMMARY:🫐 Début récolte Cassis
+DESCRIPTION:Début de la période de récolte du cassis au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cassis-fin-20250825@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250825
+SUMMARY:🫐 Fin récolte Cassis
+DESCRIPTION:Fin de la période de récolte du cassis au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pommes-debut-20250901@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250901
+SUMMARY:🍎 Début récolte Pommes
+DESCRIPTION:Début de la période de récolte des pommes au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pommes-fin-20251031@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20251031
+SUMMARY:🍎 Fin récolte Pommes
+DESCRIPTION:Fin de la période de récolte des pommes au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:poires-debut-20250915@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250915
+SUMMARY:🍐 Début récolte Poires
+DESCRIPTION:Début de la période de récolte des poires au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:poires-fin-20251015@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20251015
+SUMMARY:🍐 Fin récolte Poires
+DESCRIPTION:Fin de la période de récolte des poires au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:prunes-debut-20250820@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250820
+SUMMARY:🟣 Début récolte Prunes
+DESCRIPTION:Début de la période de récolte des prunes au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:prunes-fin-20250930@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250930
+SUMMARY:🟣 Fin récolte Prunes
+DESCRIPTION:Fin de la période de récolte des prunes au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rhubarbe-debut-20250601@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250601
+SUMMARY:🌱 Début récolte Rhubarbe
+DESCRIPTION:Début de la période de récolte de la rhubarbe au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rhubarbe-fin-20250731@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250731
+SUMMARY:🌱 Fin récolte Rhubarbe
+DESCRIPTION:Fin de la période de récolte de la rhubarbe au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:laitue-debut-20250601@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250601
+SUMMARY:🥬 Début récolte Laitue
+DESCRIPTION:Début de la période de récolte de la laitue au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:laitue-fin-20250930@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250930
+SUMMARY:🥬 Fin récolte Laitue
+DESCRIPTION:Fin de la période de récolte de la laitue au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:epinards-debut-20250515@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250515
+SUMMARY:🌿 Début récolte Épinards
+DESCRIPTION:Début de la période de récolte des épinards au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:epinards-fin-20251015@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20251015
+SUMMARY:🌿 Fin récolte Épinards
+DESCRIPTION:Fin de la période de récolte des épinards au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:radis-debut-20250515@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250515
+SUMMARY:🔴 Début récolte Radis
+DESCRIPTION:Début de la période de récolte des radis au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:radis-fin-20251001@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20251001
+SUMMARY:🔴 Fin récolte Radis
+DESCRIPTION:Fin de la période de récolte des radis au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:carottes-debut-20250701@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250701
+SUMMARY:🥕 Début récolte Carottes
+DESCRIPTION:Début de la période de récolte des carottes au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:carottes-fin-20251031@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20251031
+SUMMARY:🥕 Fin récolte Carottes
+DESCRIPTION:Fin de la période de récolte des carottes au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:betteraves-debut-20250715@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250715
+SUMMARY:🟠 Début récolte Betteraves
+DESCRIPTION:Début de la période de récolte des betteraves au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:betteraves-fin-20251031@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20251031
+SUMMARY:🟠 Fin récolte Betteraves
+DESCRIPTION:Fin de la période de récolte des betteraves au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:navets-debut-20250701@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250701
+SUMMARY:⚪ Début récolte Navets
+DESCRIPTION:Début de la période de récolte des navets au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:navets-fin-20251031@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20251031
+SUMMARY:⚪ Fin récolte Navets
+DESCRIPTION:Fin de la période de récolte des navets au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:petits-pois-debut-20250615@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250615
+SUMMARY:🟢 Début récolte Petits pois
+DESCRIPTION:Début de la période de récolte des petits pois au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:petits-pois-fin-20250731@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250731
+SUMMARY:🟢 Fin récolte Petits pois
+DESCRIPTION:Fin de la période de récolte des petits pois au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:haricots-verts-debut-20250715@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250715
+SUMMARY:🫛 Début récolte Haricots verts
+DESCRIPTION:Début de la période de récolte des haricots verts au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:haricots-verts-fin-20250915@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250915
+SUMMARY:🫛 Fin récolte Haricots verts
+DESCRIPTION:Fin de la période de récolte des haricots verts au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:feves-debut-20250720@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250720
+SUMMARY:🫘 Début récolte Fèves
+DESCRIPTION:Début de la période de récolte des fèves au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:feves-fin-20250915@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250915
+SUMMARY:🫘 Fin récolte Fèves
+DESCRIPTION:Fin de la période de récolte des fèves au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:courgettes-debut-20250715@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250715
+SUMMARY:🥒 Début récolte Courgettes
+DESCRIPTION:Début de la période de récolte des courgettes au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:courgettes-fin-20250930@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250930
+SUMMARY:🥒 Fin récolte Courgettes
+DESCRIPTION:Fin de la période de récolte des courgettes au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:concombres-debut-20250720@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250720
+SUMMARY:🥒 Début récolte Concombres
+DESCRIPTION:Début de la période de récolte des concombres au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:concombres-fin-20250930@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250930
+SUMMARY:🥒 Fin récolte Concombres
+DESCRIPTION:Fin de la période de récolte des concombres au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tomates-debut-20250715@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250715
+SUMMARY:🍅 Début récolte Tomates
+DESCRIPTION:Début de la période de récolte des tomates au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tomates-fin-20251001@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20251001
+SUMMARY:🍅 Fin récolte Tomates
+DESCRIPTION:Fin de la période de récolte des tomates au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:poivrons-debut-20250801@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250801
+SUMMARY:🫑 Début récolte Poivrons
+DESCRIPTION:Début de la période de récolte des poivrons au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:poivrons-fin-20250930@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250930
+SUMMARY:🫑 Fin récolte Poivrons
+DESCRIPTION:Fin de la période de récolte des poivrons au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:aubergines-debut-20250801@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250801
+SUMMARY:🍆 Début récolte Aubergines
+DESCRIPTION:Début de la période de récolte des aubergines au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:aubergines-fin-20250930@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250930
+SUMMARY:🍆 Fin récolte Aubergines
+DESCRIPTION:Fin de la période de récolte des aubergines au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:brocoli-debut-20250701@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250701
+SUMMARY:🥦 Début récolte Brocoli
+DESCRIPTION:Début de la période de récolte du brocoli au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:brocoli-fin-20251031@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20251031
+SUMMARY:🥦 Fin récolte Brocoli
+DESCRIPTION:Fin de la période de récolte du brocoli au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chou-fleur-debut-20250715@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250715
+SUMMARY:🥬 Début récolte Chou-fleur
+DESCRIPTION:Début de la période de récolte du chou-fleur au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chou-fleur-fin-20251031@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20251031
+SUMMARY:🥬 Fin récolte Chou-fleur
+DESCRIPTION:Fin de la période de récolte du chou-fleur au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:choux-debut-20250701@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250701
+SUMMARY:🥬 Début récolte Choux
+DESCRIPTION:Début de la période de récolte des choux au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:choux-fin-20251115@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20251115
+SUMMARY:🥬 Fin récolte Choux
+DESCRIPTION:Fin de la période de récolte des choux au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:choux-bruxelles-debut-20250901@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250901
+SUMMARY:🥬 Début récolte Choux de Bruxelles
+DESCRIPTION:Début de la période de récolte des choux de Bruxelles au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:choux-bruxelles-fin-20251130@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20251130
+SUMMARY:🥬 Fin récolte Choux de Bruxelles
+DESCRIPTION:Fin de la période de récolte des choux de Bruxelles au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:poireaux-debut-20250801@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250801
+SUMMARY:🥬 Début récolte Poireaux
+DESCRIPTION:Début de la période de récolte des poireaux au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:poireaux-fin-20251115@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20251115
+SUMMARY:🥬 Fin récolte Poireaux
+DESCRIPTION:Fin de la période de récolte des poireaux au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:oignons-debut-20250801@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250801
+SUMMARY:🧅 Début récolte Oignons
+DESCRIPTION:Début de la période de récolte des oignons au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:oignons-fin-20251015@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20251015
+SUMMARY:🧅 Fin récolte Oignons
+DESCRIPTION:Fin de la période de récolte des oignons au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ail-debut-20250715@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250715
+SUMMARY:🧄 Début récolte Ail
+DESCRIPTION:Début de la période de récolte de l'ail au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ail-fin-20250831@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250831
+SUMMARY:🧄 Fin récolte Ail
+DESCRIPTION:Fin de la période de récolte de l'ail au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pommes-terre-debut-20250715@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250715
+SUMMARY:🥔 Début récolte Pommes de terre
+DESCRIPTION:Début de la période de récolte des pommes de terre au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pommes-terre-fin-20251015@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20251015
+SUMMARY:🥔 Fin récolte Pommes de terre
+DESCRIPTION:Fin de la période de récolte des pommes de terre au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:courges-debut-20250901@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250901
+SUMMARY:🎃 Début récolte Courges
+DESCRIPTION:Début de la période de récolte des courges au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:courges-fin-20251031@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20251031
+SUMMARY:🎃 Fin récolte Courges
+DESCRIPTION:Fin de la période de récolte des courges au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:citrouilles-debut-20250901@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250901
+SUMMARY:🎃 Début récolte Citrouilles
+DESCRIPTION:Début de la période de récolte des citrouilles au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:citrouilles-fin-20251031@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20251031
+SUMMARY:🎃 Fin récolte Citrouilles
+DESCRIPTION:Fin de la période de récolte des citrouilles au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mais-debut-20250815@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250815
+SUMMARY:🌽 Début récolte Maïs
+DESCRIPTION:Début de la période de récolte du maïs au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mais-fin-20250930@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250930
+SUMMARY:🌽 Fin récolte Maïs
+DESCRIPTION:Fin de la période de récolte du maïs au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:asperges-debut-20250510@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250510
+SUMMARY:🌱 Début récolte Asperges
+DESCRIPTION:Début de la période de récolte des asperges au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:asperges-fin-20250615@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250615
+SUMMARY:🌱 Fin récolte Asperges
+DESCRIPTION:Fin de la période de récolte des asperges au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+END:VCALENDAR
