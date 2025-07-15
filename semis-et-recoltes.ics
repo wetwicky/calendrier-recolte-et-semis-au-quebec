@@ -816,4 +816,40 @@ DESCRIPTION:Fin de la période de récolte des cerises au Québec
 CATEGORIES:FRUITS,RECOLTE
 END:VEVENT
 
+BEGIN:VEVENT
+UID:cerises-terre-debut-20250815@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250815
+RRULE:FREQ=YEARLY
+SUMMARY:🟡 Début récolte Cerises de terre
+DESCRIPTION:Début de la période de récolte des cerises de terre (physalis) au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cerises-terre-fin-20251015@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20251015
+RRULE:FREQ=YEARLY
+SUMMARY:🟡 Fin récolte Cerises de terre
+DESCRIPTION:Fin de la période de récolte des cerises de terre (physalis) au Québec
+CATEGORIES:FRUITS,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tomates-cerises-debut-20250715@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250715
+RRULE:FREQ=YEARLY
+SUMMARY:🍅 Début récolte Tomates cerises
+DESCRIPTION:Début de la période de récolte des tomates cerises au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tomates-cerises-fin-20251001@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20251001
+RRULE:FREQ=YEARLY
+SUMMARY:🍅 Fin récolte Tomates cerises
+DESCRIPTION:Fin de la période de récolte des tomates cerises au Québec
+CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
 END:VCALENDAR

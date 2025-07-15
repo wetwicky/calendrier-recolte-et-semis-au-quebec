@@ -6,7 +6,7 @@ Un calendrier au format ICS contenant les périodes de récolte des fruits et l�
 
 Ce projet fournit un calendrier complet pour les jardiniers québécois avec :
 
-- **Périodes de récolte** pour 37 fruits et légumes
+- **Périodes de récolte** pour 39 fruits et légumes
 - **Événements d'exclusion** pour les variétés non adaptées au climat québécois
 - **Format ICS standard** compatible avec la plupart des applications de calendrier
 - **Emojis et descriptions détaillées** pour une meilleure lisibilité
@@ -18,13 +18,14 @@ Ce projet fournit un calendrier complet pour les jardiniers québécois avec :
 - `verify_ics.py` - Script Python pour vérifier et nettoyer le fichier ICS
 - `README.md` - Documentation du projet
 
-## 🍎 Fruits inclus (12 variétés)
+## 🍎 Fruits inclus (13 variétés)
 
 | Fruit | Période de récolte | Émoji |
 |-------|-------------------|-------|
 | Fraises | 15 juin → 31 juillet | 🍓 |
 | Framboises | 1er juillet → 15 août | 🔴 |
 | Cerises | 15 juin → 15 août | 🍒 |
+| Cerises de terre | 15 août → 15 octobre | 🟡 |
 | Bleuets | 20 juillet → 31 août | 🫐 |
 | Mûres | 1er août → 15 septembre | 🫐 |
 | Groseilles | 10 juillet → 20 août | 🍇 |
@@ -34,7 +35,7 @@ Ce projet fournit un calendrier complet pour les jardiniers québécois avec :
 | Prunes | 20 août → 30 septembre | 🟣 |
 | Rhubarbe | 1er juin → 31 juillet | 🌱 |
 
-## 🥕 Légumes inclus (25 variétés)
+## 🥕 Légumes inclus (26 variétés)
 
 | Légume | Période de récolte | Émoji |
 |--------|-------------------|-------|
@@ -50,6 +51,7 @@ Ce projet fournit un calendrier complet pour les jardiniers québécois avec :
 | Courgettes | 15 juillet → 30 septembre | 🥒 |
 | Concombres | 20 juillet → 30 septembre | 🥒 |
 | Tomates | 15 juillet → 1er octobre | 🍅 |
+| Tomates cerises | 15 juillet → 1er octobre | 🍅 |
 | Poivrons | 1er août → 30 septembre | 🫑 |
 | Aubergines | 1er août → 30 septembre | 🍆 |
 | Brocoli | 1er juillet → 31 octobre | 🥦 |
