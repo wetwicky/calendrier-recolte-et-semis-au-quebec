@@ -1,11 +1,12 @@
 # 🌱 Calendrier Semis et Récoltes - Québec
 
-Un calendrier au format ICS contenant les périodes de récolte des fruits et légumes adaptés au climat du Québec, ainsi que les exclusions avec explications pour les variétés non cultivables.
+Un calendrier au format ICS contenant les périodes de semis et récolte des fruits et légumes adaptés au climat du Québec, ainsi que les exclusions avec explications pour les variétés non cultivables.
 
 ## 📅 Description
 
 Ce projet fournit un calendrier complet pour les jardiniers québécois avec :
 
+- **Périodes de semis** pour les cultures annuelles
 - **Périodes de récolte** pour 39 fruits et légumes
 - **Événements d'exclusion** pour les variétés non adaptées au climat québécois
 - **Format ICS standard** compatible avec la plupart des applications de calendrier
@@ -15,6 +16,7 @@ Ce projet fournit un calendrier complet pour les jardiniers québécois avec :
 
 - `semis-et-recoltes.ics` - Fichier calendrier principal avec récurrence annuelle
 - `add_rrule.py` - Script Python pour ajouter les règles de récurrence
+- `add_semis.py` - Script Python pour ajouter les événements de semis
 - `verify_ics.py` - Script Python pour vérifier et nettoyer le fichier ICS
 - `README.md` - Documentation du projet
 
@@ -89,6 +91,24 @@ Le calendrier inclut également des événements d'exclusion pour expliquer pour
 - **⏰** = Saison de croissance trop courte
 - **🔧** = Technique de culture complexe
 
+## 🌱 Événements de semis
+
+Le calendrier inclut également les périodes optimales de semis pour **17 cultures annuelles** :
+
+### Types de semis inclus
+- **🌱 Graines** : Semis direct ou en intérieur (laitue, radis, carottes, etc.)
+- **🌱 Plants/Transplants** : Plantation de plants (tomates, poivrons, brocoli, etc.)
+- **🌱 Bulbes/Tubercules** : Plantation d'ail, pommes de terre
+- **🌳 Arbres/Arbustes** : Pas de semis annuel (plantation une fois)
+
+### Cultures exclues des semis
+Les **arbres fruitiers** et **arbustes** ne nécessitent pas de semis annuel :
+- Pommes, poires, prunes, cerises (arbres)
+- Bleuets, mûres, groseilles, cassis (arbustes)
+- Asperges (vivace établie)
+
+Les dates de semis sont calculées automatiquement en fonction des périodes de récolte optimales.
+
 ## 📲 Installation et utilisation
 
 ### 1. Télécharger le calendrier
@@ -121,6 +141,8 @@ La plupart des applications de calendrier mobile supportent l'importation de fic
 ## 🌿 Catégories d'événements
 
 Le calendrier utilise les catégories suivantes :
+- `FRUITS,SEMIS` - Périodes de semis/plantation des fruits
+- `LEGUMES,SEMIS` - Périodes de semis/plantation des légumes
 - `FRUITS,RECOLTE` - Périodes de récolte des fruits
 - `LEGUMES,RECOLTE` - Périodes de récolte des légumes
 - `FRUITS,EXCLUSION` - Fruits non cultivables avec explications

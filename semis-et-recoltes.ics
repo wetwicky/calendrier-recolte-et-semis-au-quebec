@@ -7,6 +7,160 @@ X-WR-CALNAME:Semis et Récoltes - Québec
 X-WR-CALDESC:Calendrier des périodes de récolte des fruits et légumes au Québec
 
 BEGIN:VEVENT
+UID:fraises-semis-20250317@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250317
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Semis Fraises (plants)
+DESCRIPTION:Période optimale pour le semis/plantation de fraises au Québec
+CATEGORIES:FRUITS,SEMIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:framboises-semis-20240701@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20240701
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Semis Framboises (plants)
+DESCRIPTION:Période optimale pour le semis/plantation de framboises au Québec
+CATEGORIES:FRUITS,SEMIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rhubarbe-semis-20241203@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20241203
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Semis Rhubarbe (plants)
+DESCRIPTION:Période optimale pour le semis/plantation de rhubarbe au Québec
+CATEGORIES:FRUITS,SEMIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:laitue-semis-20250417@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250417
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Semis Laitue (graines)
+DESCRIPTION:Période optimale pour le semis/plantation de laitue au Québec
+CATEGORIES:LEGUMES,SEMIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:radis-semis-20250415@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250415
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Semis Radis (graines)
+DESCRIPTION:Période optimale pour le semis/plantation de radis au Québec
+CATEGORIES:LEGUMES,SEMIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:carottes-semis-20250412@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250412
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Semis Carottes (graines)
+DESCRIPTION:Période optimale pour le semis/plantation de carottes au Québec
+CATEGORIES:LEGUMES,SEMIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:betteraves-semis-20250516@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250516
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Semis Betteraves (graines)
+DESCRIPTION:Période optimale pour le semis/plantation de betteraves au Québec
+CATEGORIES:LEGUMES,SEMIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:feves-semis-20250501@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250501
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Semis Feves (graines)
+DESCRIPTION:Période optimale pour le semis/plantation de feves au Québec
+CATEGORIES:LEGUMES,SEMIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:courgettes-semis-20250416@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250416
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Semis Courgettes (graines)
+DESCRIPTION:Période optimale pour le semis/plantation de courgettes au Québec
+CATEGORIES:LEGUMES,SEMIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tomates-semis-20250317@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250317
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Semis Tomates (graines)
+DESCRIPTION:Période optimale pour le semis/plantation de tomates au Québec
+CATEGORIES:LEGUMES,SEMIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:brocoli-semis-20250412@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250412
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Semis Brocoli (graines)
+DESCRIPTION:Période optimale pour le semis/plantation de brocoli au Québec
+CATEGORIES:LEGUMES,SEMIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:choux-semis-20250412@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250412
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Semis Choux (graines)
+DESCRIPTION:Période optimale pour le semis/plantation de choux au Québec
+CATEGORIES:LEGUMES,SEMIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:poireaux-semis-20250403@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250403
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Semis Poireaux (graines)
+DESCRIPTION:Période optimale pour le semis/plantation de poireaux au Québec
+CATEGORIES:LEGUMES,SEMIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ail-semis-20241117@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20241117
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Semis Ail (bulbes)
+DESCRIPTION:Période optimale pour le semis/plantation de ail au Québec
+CATEGORIES:LEGUMES,SEMIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:courges-semis-20250504@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250504
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Semis Courges (graines)
+DESCRIPTION:Période optimale pour le semis/plantation de courges au Québec
+CATEGORIES:LEGUMES,SEMIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:citrouilles-semis-20250504@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250504
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Semis Citrouilles (graines)
+DESCRIPTION:Période optimale pour le semis/plantation de citrouilles au Québec
+CATEGORIES:LEGUMES,SEMIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mais-semis-20250517@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250517
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Semis Mais (graines)
+DESCRIPTION:Période optimale pour le semis/plantation de mais au Québec
+CATEGORIES:LEGUMES,SEMIS
+END:VEVENT
+
+
+BEGIN:VEVENT
 UID:fraises-debut-20250615@semis-recoltes-quebec
 DTSTART;VALUE=DATE:20250615
 RRULE:FREQ=YEARLY
@@ -850,6 +1004,15 @@ RRULE:FREQ=YEARLY
 SUMMARY:🍅 Fin récolte Tomates cerises
 DESCRIPTION:Fin de la période de récolte des tomates cerises au Québec
 CATEGORIES:LEGUMES,RECOLTE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fraises-semis-20250315@semis-recoltes-quebec
+DTSTART;VALUE=DATE:20250315
+RRULE:FREQ=YEARLY
+SUMMARY:🌱 Semis Fraises (plants)
+DESCRIPTION:Période optimale pour planter les plants de fraises au Québec
+CATEGORIES:FRUITS,SEMIS
 END:VEVENT
 
 END:VCALENDAR
